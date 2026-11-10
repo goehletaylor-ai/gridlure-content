@@ -7,6 +7,7 @@
       "puzzles": {
         "5": {
           "name": "Mug",
+          "caption": "A warm mug, steam curling up from the top.",
           "art": [
             ".w.w.",
             "mmmm.",
@@ -23,6 +24,7 @@
         },
         "10": {
           "name": "Hot Cocoa",
+          "caption": "A red mug of cocoa topped with marshmallows, still steaming.",
           "art": [
             "..s..s....",
             "...s..s...",
