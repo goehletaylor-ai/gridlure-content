@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "days": [
+    {
+      "date": "2026-12-13",
+      "theme": "National Cocoa Day",
+      "puzzles": {
+        "5": {
+          "name": "Mug",
+          "art": [
+            ".w.w.",
+            "mmmm.",
+            "mmmmm",
+            "mmmm.",
+            ".mm.."
+          ],
+          "ink": {
+            "m": "8D5524"
+          },
+          "backdrop": {
+            "w": "DEE2E6"
+          }
+        },
+        "10": {
+          "name": "Hot Cocoa",
+          "art": [
+            "..s..s....",
+            "...s..s...",
+            "..........",
+            "owwowwo...",
+            "mmmmmmmm..",
+            "mmmmmmmmmm",
+            "mmmmmmmm.m",
+            "mmmmmmmmmm",
+            "mmmmmmmm..",
+            ".mmmmmm..."
+          ],
+          "ink": {
+            "m": "C1121F",
+            "o": "FFF1E6",
+            "w": "FFFFFF"
+          },
+          "backdrop": {
+            "s": "CED4DA"
+          }
+        }
+      }
+    }
+  ]
+}
