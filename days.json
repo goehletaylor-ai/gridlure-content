@@ -2,6 +2,480 @@
   "format": 1,
   "days": [
     {
+      "date": "2026-11-12",
+      "theme": "Game preload day; Voyager 1 passed Saturn (1980)",
+      "puzzles": {
+        "5": {
+          "name": "Download",
+          "caption": "A download arrow. The wait is almost over.",
+          "art": [
+            ".aaa.",
+            ".aaa.",
+            "aaaaa",
+            ".aaa.",
+            "..a.."
+          ],
+          "ink": {
+            "a": "339AF0"
+          }
+        },
+        "10": {
+          "name": "Saturn",
+          "caption": "Saturn, wearing its famous ring.",
+          "art": [
+            "...yyyy...",
+            "..yyyyyy..",
+            ".yyyyyyyy.",
+            ".yyyyyyyy.",
+            "rrrrrrrrrr",
+            "rrrrrrrrrr",
+            ".yyyyyyyy.",
+            ".yyyyyyyy.",
+            "..yyyyyy..",
+            "...yyyy..."
+          ],
+          "ink": {
+            "y": "E9C46A",
+            "r": "B08968"
+          }
+        }
+      }
+    },
+    {
+      "date": "2026-11-13",
+      "theme": "Friday the 13th",
+      "puzzles": {
+        "5": {
+          "name": "Horseshoe",
+          "caption": "A lucky horseshoe, open side up.",
+          "art": [
+            "h...h",
+            "h...h",
+            "h...h",
+            "hh.hh",
+            ".hhh."
+          ],
+          "ink": {
+            "h": "868E96"
+          }
+        },
+        "10": {
+          "name": "Black Cat",
+          "caption": "A black cat sitting tall, yellow eyes and a curled tail.",
+          "art": [
+            ".k...k....",
+            ".kk.kk....",
+            ".kkkkk....",
+            ".kykyk....",
+            ".kkkkk....",
+            "..kkk.....",
+            ".kkkkk....",
+            "kkkkkkk.k.",
+            "kkkkkkk..k",
+            "kkkkkkkkkk"
+          ],
+          "ink": {
+            "k": "212529"
+          },
+          "backdrop": {
+            "y": "FCC419"
+          }
+        }
+      }
+    },
+    {
+      "date": "2026-11-14",
+      "theme": "Nellie Bly set off around the world (1889)",
+      "puzzles": {
+        "5": {
+          "name": "Suitcase",
+          "caption": "A travel suitcase with a handle on top.",
+          "art": [
+            ".hhh.",
+            ".h.h.",
+            "sssss",
+            "sssss",
+            "sssss"
+          ],
+          "ink": {
+            "h": "5C3D2E",
+            "s": "A0522D"
+          }
+        },
+        "10": {
+          "name": "Globe",
+          "caption": "A desk globe on its stand, land and sea.",
+          "art": [
+            "...oooo...",
+            "..oggooo..",
+            ".ogggooog.",
+            ".oogooogg.",
+            ".ooooogoo.",
+            "..oooggo..",
+            "...oooo...",
+            "....kk....",
+            "....kk....",
+            "..kkkkkk.."
+          ],
+          "ink": {
+            "o": "339AF0",
+            "g": "40C057",
+            "k": "5C3D2E"
+          }
+        }
+      }
+    },
+    {
+      "date": "2026-11-15",
+      "theme": "America Recycles Day",
+      "puzzles": {
+        "5": {
+          "name": "Leaf",
+          "caption": "A green leaf on its stem.",
+          "art": [
+            "..lll",
+            ".llll",
+            "lllll",
+            "llll.",
+            "l...."
+          ],
+          "ink": {
+            "l": "40C057"
+          }
+        },
+        "10": {
+          "name": "Recycle Bin",
+          "caption": "A green recycling bin with its lid on.",
+          "art": [
+            "...bbbb...",
+            "bbbbbbbbbb",
+            "..........",
+            ".bbbbbbbb.",
+            ".bbdbbdbb.",
+            ".bbdbbdbb.",
+            ".bbdbbdbb.",
+            ".bbdbbdbb.",
+            ".bbbbbbbb.",
+            "..bbbbbb.."
+          ],
+          "ink": {
+            "b": "2F9E44"
+          },
+          "backdrop": {
+            "d": "1B5E20"
+          }
+        }
+      }
+    },
+    {
+      "date": "2026-11-16",
+      "theme": "Music award nominations; Vice Week begins",
+      "puzzles": {
+        "5": {
+          "name": "Palm Tree",
+          "caption": "A palm tree swaying in the heat.",
+          "art": [
+            "pp.pp",
+            ".ppp.",
+            "p.t.p",
+            "..t..",
+            "..t.."
+          ],
+          "ink": {
+            "p": "2F9E44",
+            "t": "8D6E63"
+          }
+        },
+        "10": {
+          "name": "Gramophone",
+          "caption": "An old gramophone with a big brass horn.",
+          "art": [
+            "......hhhh",
+            ".....hhhhh",
+            "....hhhhhh",
+            "...hhhhhh.",
+            "..hhhhh...",
+            "..hhh.....",
+            "..hh......",
+            "bbbbbbbb..",
+            "bbbbbbbb..",
+            "bbbbbbbb.."
+          ],
+          "ink": {
+            "h": "E9B000",
+            "b": "7F5539"
+          }
+        }
+      }
+    },
+    {
+      "date": "2026-11-17",
+      "theme": "National Take a Hike Day; Vice Week",
+      "puzzles": {
+        "5": {
+          "name": "Boot",
+          "caption": "A sturdy hiking boot.",
+          "art": [
+            "bbb..",
+            "bbb..",
+            "bbbb.",
+            "bbbbb",
+            "sssss"
+          ],
+          "ink": {
+            "b": "A0522D",
+            "s": "343A40"
+          }
+        },
+        "10": {
+          "name": "Flamingo",
+          "caption": "A pink flamingo, balancing on one leg.",
+          "art": [
+            "..ppk.....",
+            "..pp......",
+            "..p.......",
+            "..p.......",
+            "..pp......",
+            "..pppppp..",
+            ".pppppppp.",
+            "..ppppppp.",
+            "....l.....",
+            "....ll...."
+          ],
+          "ink": {
+            "p": "F783AC",
+            "k": "343A40",
+            "l": "E64980"
+          }
+        }
+      }
+    },
+    {
+      "date": "2026-11-18",
+      "theme": "Steamboat Willie premiered (1928); Vice Week",
+      "puzzles": {
+        "5": {
+          "name": "Cash",
+          "caption": "A bag of cash, tied at the top.",
+          "art": [
+            ".g.g.",
+            "..g..",
+            ".ggg.",
+            "ggggg",
+            ".ggg."
+          ],
+          "ink": {
+            "g": "2B8A3E"
+          }
+        },
+        "10": {
+          "name": "Steamboat",
+          "caption": "A paddle steamboat puffing along the river.",
+          "art": [
+            "...s..s...",
+            "..s..s....",
+            "..kk.kk...",
+            "..kk.kk...",
+            ".wwwwwwww.",
+            ".wddwddww.",
+            "rrrrrrrrrr",
+            ".rrrrrrrr.",
+            "..rrrrrr..",
+            "vvvvvvvvvv"
+          ],
+          "ink": {
+            "k": "343A40",
+            "w": "F8F9FA",
+            "r": "C92A2A"
+          },
+          "backdrop": {
+            "s": "CED4DA",
+            "d": "74C0FC",
+            "v": "4DABF7"
+          }
+        }
+      }
+    },
+    {
+      "date": "2026-11-19",
+      "theme": "Vice Week: launch day",
+      "puzzles": {
+        "5": {
+          "name": "Wanted",
+          "caption": "One wanted star. It only goes up from here.",
+          "art": [
+            "..y..",
+            ".yyy.",
+            "yyyyy",
+            ".yyy.",
+            ".y.y."
+          ],
+          "ink": {
+            "y": "FCC419"
+          }
+        },
+        "10": {
+          "name": "Crime",
+          "caption": "A neon sunset behind the palms. Perfect weather for a little crime.",
+          "art": [
+            "kkvkkvvvvv",
+            "vkkkvvoovv",
+            "kvkvvoooov",
+            "vvkvoooooo",
+            "vvkvvvvvvv",
+            "vvkvpppppp",
+            "vvkvvvvvvv",
+            "vvkvvmmmmv",
+            "vvkvvvvvvv",
+            "kkkkkkkkkk"
+          ],
+          "ink": {
+            "k": "1B1B2F",
+            "o": "FFA94D",
+            "p": "FF6B9D",
+            "m": "DA77F2"
+          },
+          "backdrop": {
+            "v": "3B1F5C"
+          }
+        }
+      }
+    },
+    {
+      "date": "2026-11-20",
+      "theme": "Windows 1.0 released (1985); Vice Week",
+      "puzzles": {
+        "5": {
+          "name": "Window",
+          "caption": "A four-pane window.",
+          "art": [
+            "wwwww",
+            "wgwgw",
+            "wwwww",
+            "wgwgw",
+            "wwwww"
+          ],
+          "ink": {
+            "w": "868E96"
+          },
+          "backdrop": {
+            "g": "A5D8FF"
+          }
+        },
+        "10": {
+          "name": "Sports Car",
+          "caption": "A low red sports car, built for speed.",
+          "art": [
+            "..........",
+            "..........",
+            "...rrrr...",
+            "..rrwwrrr.",
+            ".rrrrrrrrr",
+            "rrrrrrrrrr",
+            "rrrrrrrrrr",
+            "rkkrrrrkkr",
+            ".kk....kk.",
+            ".........."
+          ],
+          "ink": {
+            "r": "E03131",
+            "k": "343A40"
+          },
+          "backdrop": {
+            "w": "A5D8FF"
+          }
+        }
+      }
+    },
+    {
+      "date": "2026-11-21",
+      "theme": "World Hello Day; World Television Day; Vice Week",
+      "puzzles": {
+        "5": {
+          "name": "Hello",
+          "caption": "A speech bubble, saying hello.",
+          "art": [
+            "bbbbb",
+            "bwbwb",
+            "bbbbb",
+            ".bb..",
+            ".b..."
+          ],
+          "ink": {
+            "b": "4C6EF5"
+          },
+          "backdrop": {
+            "w": "FFFFFF"
+          }
+        },
+        "10": {
+          "name": "Retro TV",
+          "caption": "An old TV set with antennas on top.",
+          "art": [
+            "..aa..aa..",
+            "...a..a...",
+            "...aaaa...",
+            "tttttttttt",
+            "tsssssstkt",
+            "tsssssttt.",
+            "tsssssstkt",
+            "tsssssttt.",
+            "tttttttttt",
+            ".t......t."
+          ],
+          "ink": {
+            "a": "495057",
+            "t": "8D6E63"
+          },
+          "backdrop": {
+            "s": "A5D8FF",
+            "k": "343A40"
+          }
+        }
+      }
+    },
+    {
+      "date": "2026-11-22",
+      "theme": "Toy Story opened (1995); Vice Week ends",
+      "puzzles": {
+        "5": {
+          "name": "Ice Pop",
+          "caption": "A cold ice pop for a hot day.",
+          "art": [
+            ".ppp.",
+            ".ppp.",
+            ".ppp.",
+            "..s..",
+            "..s.."
+          ],
+          "ink": {
+            "p": "FF6B9D",
+            "s": "E9B872"
+          }
+        },
+        "10": {
+          "name": "Cowboy Hat",
+          "caption": "A cowboy hat with a red band.",
+          "art": [
+            "..........",
+            "..........",
+            "...h..h...",
+            "..hhhhhh..",
+            "..hhhhhh..",
+            "..bbbbbb..",
+            "h.hhhhhh.h",
+            "hhhhhhhhhh",
+            ".hhhhhhhh.",
+            ".........."
+          ],
+          "ink": {
+            "h": "A0522D",
+            "b": "C92A2A"
+          }
+        }
+      }
+    },
+    {
       "date": "2026-12-13",
       "theme": "National Cocoa Day",
       "puzzles": {
