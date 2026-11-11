@@ -316,29 +316,31 @@
           "name": "Turkey",
           "caption": "A proud turkey with its tail fanned out.",
           "art": [
-            "..rroorr..",
-            ".rAoByAAr.",
-            "rAAyCbBAAr",
-            "roybDbbBor",
-            "roybCbCBor",
-            ".oBbbbbyo.",
-            "..bbbCCb..",
+            "..ErooEE..",
+            ".rAAyyAAE.",
+            "EooBbbBAAr",
+            "EAybRbbyor",
+            "roBbbCCBor",
+            ".oybCCbyo.",
+            "..bCCCCb..",
             "...bbbb...",
-            "...l..l...",
-            "..ll..ll.."
+            "...c..l...",
+            "..cc..ll.."
           ],
           "ink": {
             "r": "C92A2A",
             "o": "F76707",
             "y": "FCC419",
             "b": "8D5524",
-            "l": "F59F00"
+            "l": "F59F00",
+            "R": "212529"
           },
           "backdrop": {
             "A": "F76707",
             "B": "FCC419",
             "C": "8D5524",
-            "D": "212529"
+            "E": "C92A2A",
+            "c": "F59F00"
           }
         },
         {
@@ -347,12 +349,12 @@
           "art": [
             "..........",
             "bb........",
-            "bbb.......",
+            "AbA.......",
             ".bAbbrrgg.",
-            "..bbABrCCo",
-            "..bAAAyyoo",
-            "...bbbDDo.",
-            "....bbbb..",
+            "..bAbBrgCo",
+            "..bAAbyyoo",
+            "...AAbyyo.",
+            "....bbAb..",
             "..........",
             ".........."
           ],
@@ -366,24 +368,23 @@
           "backdrop": {
             "A": "B08968",
             "B": "C92A2A",
-            "C": "74B816",
-            "D": "FCC419"
+            "C": "74B816"
           }
         },
         {
           "name": "Scarecrow",
           "caption": "A friendly scarecrow keeping watch.",
           "art": [
-            "...hhhh...",
-            ".hhhhhhhh.",
-            "...ffff...",
+            "...hhAh...",
+            ".AAhhAhhh.",
+            "...ffEf...",
             "...kffk...",
-            "ssssssssss",
-            "...ssss...",
-            "...ssss...",
-            "...pppp...",
-            "....ww....",
-            "....ww...."
+            "ssssFFFsss",
+            "...sFFs...",
+            "...FFFs...",
+            "...Nppp...",
+            "....wO....",
+            "....wO...."
           ],
           "ink": {
             "h": "8D5524",
@@ -392,6 +393,13 @@
             "s": "C92A2A",
             "p": "1971C2",
             "w": "6D4C41"
+          },
+          "backdrop": {
+            "A": "8D5524",
+            "E": "F3D9A4",
+            "F": "C92A2A",
+            "N": "1971C2",
+            "O": "6D4C41"
           }
         },
         {
@@ -399,15 +407,15 @@
           "caption": "A squirrel holding its acorn.",
           "art": [
             "..tt......",
-            ".tttt.....",
-            "tAttAt.ss.",
+            ".ttAt.....",
+            "tAtAtt.ss.",
             "tAAAtsssks",
-            "tttAtsBsss",
-            ".tttsBsBs.",
-            "..ttsBBs..",
-            "...sBsBs..",
+            "tAAAtssBBs",
+            ".AAtsBBBB.",
+            "..AtsBBs..",
+            "...BBsBs..",
             "...ssssa..",
-            "..ss..ss.."
+            "..ss..sB.."
           ],
           "ink": {
             "t": "C2410C",
@@ -424,15 +432,15 @@
           "name": "Fox",
           "caption": "A clever fox's face.",
           "art": [
-            "o........o",
+            "A........o",
             "oo......oo",
-            "ooo....ooo",
-            "ooAooooAAo",
-            "okooAAokoo",
-            "oooAoAAAoo",
-            "wwAooooBw.",
-            ".wwwooBww.",
-            "..wwwCww..",
+            "oAA....AAo",
+            "AoAooAoAAo",
+            "okoAAAokoo",
+            "oAAAAAAooo",
+            "BwAoAAoBw.",
+            ".wwwAowBB.",
+            "..wBwCwB..",
             "...wwww..."
           ],
           "ink": {
@@ -450,16 +458,16 @@
           "name": "Deer",
           "caption": "A deer with velvet antlers.",
           "art": [
-            "a.aa..aa.a",
-            "aaa....aaa",
+            "B.aa..aa.a",
+            "BBa....aaa",
             "..aa..aa..",
-            "..dddddd..",
-            "ddkdAAdkdd",
-            ".dddAAddd.",
-            "..ddAAdd..",
-            "...dddd...",
-            "...dnnd...",
-            "....dd...."
+            "..ddddAd..",
+            "ddFAAAdkdd",
+            ".ddAAAAdA.",
+            "..dAAAAd..",
+            "...Addd...",
+            "...Annd...",
+            "....dA...."
           ],
           "ink": {
             "a": "A0522D",
@@ -468,20 +476,22 @@
             "n": "5C3D2E"
           },
           "backdrop": {
-            "A": "C08552"
+            "A": "C08552",
+            "B": "A0522D",
+            "F": "212529"
           }
         },
         {
           "name": "Hedgehog",
           "caption": "A hedgehog out for an autumn walk.",
           "art": [
-            "..s.s.s...",
-            ".sssssss..",
-            "ssAAAAAss.",
-            "sAsAAAABff",
-            "ssAAAAsBCf",
-            "ssAAAsBBfn",
-            ".ssssssff.",
+            "..s.A.A...",
+            ".sssAAAs..",
+            "sAAAAAAss.",
+            "sAAAAAAffB",
+            "sAAAAAsfCB",
+            "sAAAAsfBfn",
+            ".ssssssfB.",
             "..ll..ll..",
             "..........",
             ".........."
@@ -503,15 +513,15 @@
           "caption": "A red barn with white trim.",
           "art": [
             "....rr....",
-            "...rrrr...",
-            "..rAAAAr..",
-            ".rAArAArr.",
-            "rArrwBAAAr",
-            "rArrwwAAAr",
-            "rAwBBBwBAr",
-            "rAwddCCwrr",
-            "rAwCCddBAr",
-            "rrwddddwrr"
+            "...AAAr...",
+            "..AAAArr..",
+            ".rrArrAAA.",
+            "AAArwwrAAA",
+            "AArrBwrrAr",
+            "AAwwBwBwrr",
+            "ArBddCCwrA",
+            "rrwCCCdwrr",
+            "AAwdddCwrr"
           ],
           "ink": {
             "r": "C92A2A",
@@ -534,14 +544,17 @@
             "....h.....",
             "....h.....",
             "....h.....",
-            "tttttttttt",
+            "AtttAtttAt",
             "t.t.t.t.t.",
             "t.t.t.t.t.",
-            "t.t.t.t.t."
+            "t.t.A.t.A."
           ],
           "ink": {
             "h": "A0522D",
             "t": "868E96"
+          },
+          "backdrop": {
+            "A": "868E96"
           }
         },
         {
@@ -549,11 +562,11 @@
           "caption": "A wagon loaded with pumpkins.",
           "art": [
             "..........",
-            "..oo..oo..",
-            ".oAAooAAo.",
-            "wwwBBBBBBw",
-            "wBBwBwwBBw",
-            ".wBwwwwBw.",
+            "..Ao..Ao..",
+            ".AoooAooo.",
+            "wBBwBwwwww",
+            "wBwBBBBBBw",
+            ".wwwwBwww.",
             ".kk....kk.",
             ".kk....kk.",
             "..........",
@@ -575,12 +588,12 @@
           "art": [
             "..........",
             "..........",
-            "....ro....",
+            "....Ao....",
             "...yrgo...",
-            "..oAyBro..",
-            ".rCogrCDy.",
-            "oyABDCrBDy",
-            "roygryoygr",
+            "..oACgro..",
+            ".ryogACoC.",
+            "oyrBDyAgDy",
+            "ADyBAyoygr",
             "..........",
             ".........."
           ],
@@ -601,24 +614,26 @@
           "name": "Soup Pot",
           "caption": "A pot of soup simmering on the stove.",
           "art": [
-            "...s..s...",
-            "..s..s....",
-            ".llllllll.",
-            "ppAAppAAAp",
+            "...B..s...",
+            "..B..s....",
+            ".llDlllDD.",
+            "ppAppAppAA",
             ".pAAAAAAp.",
             ".pAAAAAAp.",
-            ".pAApApAp.",
-            "..pppppp..",
+            ".AAAAAAAp.",
+            "..Appppp..",
             "..........",
             ".........."
           ],
           "ink": {
             "l": "868E96",
-            "p": "495057"
+            "p": "495057",
+            "B": "CED4DA"
           },
           "backdrop": {
             "s": "CED4DA",
-            "A": "495057"
+            "A": "495057",
+            "D": "868E96"
           }
         },
         {
@@ -626,14 +641,14 @@
           "caption": "A gray cloud with rain coming down.",
           "art": [
             "....cc....",
-            "..ccAAc...",
+            "..ccAcc...",
             ".cAAAAAcc.",
-            "cccccAAAcc",
+            "ccAAAAAAcc",
             ".cccccccc.",
             "..........",
-            ".d..d..d..",
-            ".d..d..d..",
-            ".d..d..d..",
+            ".d..F..F..",
+            ".d..F..F..",
+            ".d..F..F..",
             ".........."
           ],
           "ink": {
@@ -641,7 +656,8 @@
             "d": "4DABF7"
           },
           "backdrop": {
-            "A": "868E96"
+            "A": "868E96",
+            "F": "4DABF7"
           }
         },
         {
@@ -649,13 +665,13 @@
           "caption": "A tall sunflower in full bloom.",
           "art": [
             "...yyyy...",
-            ".yyyyyyyy.",
+            ".ByyyByyy.",
+            ".yybbAbBB.",
+            "yyAAAAAbyy",
+            "BBAAAAAAyB",
             ".yybbbbyy.",
-            "yybAAAAbyy",
-            "yybAAAAbyy",
-            ".yybbbbyy.",
-            ".yyyyyyyy.",
-            "...yygy...",
+            ".yyyByBBy.",
+            "...yBgy...",
             "....g.....",
             "...gg....."
           ],
@@ -665,23 +681,24 @@
             "g": "2F9E44"
           },
           "backdrop": {
-            "A": "6D4C41"
+            "A": "6D4C41",
+            "B": "FCC419"
           }
         },
         {
           "name": "Maple Tree",
           "caption": "A maple tree at the peak of fall color.",
           "art": [
-            "...rooy...",
-            ".ryAoBroo.",
-            "rCCBrAyorr",
-            "rAyoorroCy",
-            ".roBAyCCr.",
-            "..ooArro..",
+            "...rooA...",
+            ".rAACBroC.",
+            "roorBAACrr",
+            "ByAooBBCoy",
+            ".roByyoor.",
+            "..ooyrro..",
             "....tt....",
             "....tt....",
-            "...tDDt...",
-            "gggggggggg"
+            "...ttDD...",
+            "gggbbgggbb"
           ],
           "ink": {
             "r": "C92A2A",
@@ -694,7 +711,8 @@
             "A": "FCC419",
             "B": "C92A2A",
             "C": "F76707",
-            "D": "6D4C41"
+            "D": "6D4C41",
+            "b": "74B816"
           }
         },
         {
@@ -702,18 +720,19 @@
           "caption": "A tall hat with a gold buckle.",
           "art": [
             "..........",
-            "...kkkk...",
-            "...kAAk...",
-            "...kAAk...",
-            "...kBBk...",
-            "...kBBk...",
-            "kkkAAAAkkk",
-            "kkkkkkkkkk",
+            "...AAkk...",
+            "...AAAk...",
+            "...Akkk...",
+            "...kIIA...",
+            "...kIBA...",
+            "kkkAAkAkkk",
+            "AkkAkkkAkA",
             "..........",
             ".........."
           ],
           "ink": {
-            "k": "343A40"
+            "k": "343A40",
+            "I": "FCC419"
           },
           "backdrop": {
             "A": "343A40",
@@ -724,16 +743,16 @@
           "name": "Cabin",
           "caption": "A log cabin with a stone chimney.",
           "art": [
-            "......cc..",
+            "......Ec..",
             "...rrrcc..",
-            "..rAArAr..",
-            ".rrAArrrr.",
-            "rAArAAArrr",
-            ".lllBllBl.",
-            ".lwClldDl.",
-            ".lCwBlDDl.",
-            ".lBBBBBll.",
-            "gggggggggg"
+            "..AAAAAr..",
+            ".rAAAAAAr.",
+            "rrrAArrrrr",
+            ".BlllBBll.",
+            ".BwwlldDl.",
+            ".BwwBlDDl.",
+            ".lllBBllB.",
+            "ggffgggfff"
           ],
           "ink": {
             "c": "868E96",
@@ -746,8 +765,9 @@
           "backdrop": {
             "A": "5C3D2E",
             "B": "A0522D",
-            "C": "FFD43B",
-            "D": "3E2723"
+            "D": "3E2723",
+            "E": "868E96",
+            "f": "74B816"
           }
         },
         {
@@ -758,9 +778,9 @@
             ".kkko.....",
             "..kk......",
             "..ww......",
-            "..ww......",
-            "..wwwwww..",
-            ".wwAAAAwww",
+            "..Aw......",
+            "..AAwwww..",
+            ".AAAAAAAww",
             "..wwwwwww.",
             "....o.o...",
             "...oo.oo.."
@@ -779,51 +799,51 @@
           "caption": "A woven basket full of fall fruit.",
           "art": [
             "...hhhh...",
+            "..h....E..",
             "..h....h..",
-            "..h....h..",
-            ".aAorryBg.",
-            "bCbbCCbCCb",
-            "bwCwbwCDCw",
-            "bbCCbbCbbb",
-            ".bwCwCDbw.",
-            ".bbbbbbbb.",
+            ".FoorryyI.",
+            "bCCbCbCbCb",
+            "bDCDbwCDbw",
+            "bbCbbCCbbC",
+            ".bwbwbDbw.",
+            ".CCbbCbbb.",
             ".........."
           ],
           "ink": {
             "h": "8D5524",
-            "a": "C92A2A",
             "o": "F76707",
             "r": "E03131",
             "y": "FCC419",
-            "g": "74B816",
             "b": "A0522D",
             "w": "D9A066"
           },
           "backdrop": {
-            "A": "F76707",
-            "B": "FCC419",
             "C": "A0522D",
-            "D": "D9A066"
+            "D": "D9A066",
+            "E": "8D5524",
+            "F": "C92A2A",
+            "I": "74B816"
           }
         },
         {
           "name": "Flannel Shirt",
           "caption": "A cozy plaid flannel shirt.",
           "art": [
-            "...r..r...",
-            ".rrrrrrrr.",
-            "rrAABAAArr",
-            "rrkrBArkrr",
-            "rr.rBAr.rr",
-            "rr.rBAr.rr",
-            "rr.rBAr.rr",
-            "rr.rAAr.rr",
-            ".rrkAAkr..",
-            "..rrrrrr.."
+            "...r..A...",
+            ".rrrArArr.",
+            "rArAHrArAA",
+            "rAkAHrrkrA",
+            "rr.rBAr.Ar",
+            "rr.rBrr.Ar",
+            "AA.rHrr.rr",
+            "rr.rrAA.rr",
+            ".ArkrAkr..",
+            "..rAAAAr.."
           ],
           "ink": {
             "r": "C92A2A",
-            "k": "212529"
+            "k": "212529",
+            "H": "F8F9FA"
           },
           "backdrop": {
             "A": "C92A2A",
