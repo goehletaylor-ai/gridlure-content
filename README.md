@@ -2,17 +2,25 @@
 
 Content published to the Gridlure app through this repo's GitHub Pages site:
 
-- `days.json`: themed daily puzzles.
+- `days2.json`: the daily puzzles, a 10×10 and a 15×15 for each date (format 2).
+  Build 4 and later read this one.
+- `days.json`: the old format (a 5×5 and a 10×10), kept only for TestFlight builds
+  1–3. Leave it in place, and don't add new days to it.
 - `collections.json`: monthly collections (Classics is built into the app).
+
+Election Week (Nov 6) only has a 15×15 in `days2.json`: its 10×10 is built into the
+app and can't be replaced.
 
 The app checks GitHub first and keeps a matching copy built in as a fallback.
 
 Rules for days:
 
 - Publish a day at least a day before it releases (6:00 AM Pacific). Until then it
-  can be added, changed, or removed. After that it's frozen on every phone that has it.
-- A phone that never had a released day (a new install) still picks it up, as long as
-  nobody has played that date on it, so keep past days in the file.
+  can be added, changed, or removed.
+- After release, a date is frozen on every phone that has played it. Phones that
+  haven't played it (new installs, or anyone who skipped that day) follow the file, so
+  a fixed archive puzzle reaches them. Keep past days in the file, and avoid changing
+  them after launch: friends comparing an archive day would see different puzzles.
 
 Rules for everything:
 

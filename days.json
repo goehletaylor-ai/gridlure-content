@@ -25,26 +25,26 @@
           "name": "Sugar Skull",
           "caption": "A sugar skull decorated with flowers.",
           "art": [
-            "..wwwwww..",
-            ".wAAwAAww.",
-            "wwAwAwAwAw",
-            "wBbwAAwbBw",
-            "wBBAAwAbbw",
-            "wwwACCwwAw",
-            ".wAAwwAAw.",
-            "..wDApAw..",
-            "..wAAwAw..",
-            "...wwww..."
+            "..wAAwww..",
+            ".wwAAAwAw.",
+            "wAwAAAAwww",
+            "wBBwAAwbbw",
+            "wbBwwAwBbA",
+            "AwwAZZAwww",
+            ".wAwwAAAA.",
+            "..wDwpAw..",
+            "..wwAwAw..",
+            "...wAww..."
           ],
           "ink": {
             "w": "F3D9FA",
             "b": "4DABF7",
-            "p": "9775FA"
+            "p": "9775FA",
+            "Z": "E64980"
           },
           "backdrop": {
             "A": "F3D9FA",
             "B": "4DABF7",
-            "C": "E64980",
             "D": "9775FA"
           }
         }
@@ -74,15 +74,15 @@
           "name": "Papel Picado",
           "caption": "Bright paper banners strung up to celebrate.",
           "art": [
-            "ssssssssss",
-            "pAAp.gBBg.",
-            "pCAp.gDBg.",
+            "IsIIsssIss",
+            "pppp.gBgB.",
+            "pQpA.gDgB.",
             ".pp...gg..",
             "..........",
-            "ssssssssss",
-            ".oEEo.yFFy",
-            ".oGEo.yHFy",
-            "..oo...yy.",
+            "IsIIIssIII",
+            ".oooo.yyFy",
+            ".Ehoo.FHyy",
+            "..oo...Fy.",
             ".........."
           ],
           "ink": {
@@ -90,17 +90,18 @@
             "p": "E64980",
             "g": "40C057",
             "o": "F76707",
-            "y": "FCC419"
+            "y": "FCC419",
+            "Q": "FFC9E0",
+            "h": "FFD8A8"
           },
           "backdrop": {
             "A": "E64980",
             "B": "40C057",
-            "C": "FFC9E0",
             "D": "C3FAE8",
             "E": "F76707",
             "F": "FCC419",
-            "G": "FFD8A8",
-            "H": "FFF3BF"
+            "H": "FFF3BF",
+            "I": "868E96"
           }
         }
       }
@@ -131,22 +132,22 @@
           "art": [
             "...hhhh...",
             "...h..h...",
-            "bbbbbbbbbb",
-            "bAAAAAAAAb",
-            "bAAABBAAAb",
-            "bAAAAAAAAb",
-            "bAAAAAAAAb",
-            "bbbbbbbbbb",
+            "AbbAbbbbbA",
+            "bAAAbbAAAb",
+            "bAAAHHAAAb",
+            "bAAAAAAAbb",
+            "bAAAAAAAbb",
+            "bbbbAbbbAA",
             "..........",
             ".........."
           ],
           "ink": {
             "h": "495057",
-            "b": "1971C2"
+            "b": "1971C2",
+            "H": "FCC419"
           },
           "backdrop": {
-            "A": "1971C2",
-            "B": "FCC419"
+            "A": "1971C2"
           }
         }
       }
@@ -175,15 +176,15 @@
           "caption": "A two-humped camel crossing the sand.",
           "art": [
             "..........",
-            "..cc.cc...",
-            ".cAAcAAc.h",
-            "cAcAcAAAhh",
-            "cAAAccAcc.",
-            ".ccAccccc.",
+            "..AA.cc...",
+            ".AAAAcAc.h",
+            "cAAAAAAcJh",
+            "cAAAAAAcc.",
+            ".cccccAcc.",
             ".c.c..c.c.",
             ".c.c..c.c.",
-            ".c.c..c.c.",
-            "ssssssssss"
+            ".c.c..c.A.",
+            "ssssPsssPP"
           ],
           "ink": {
             "c": "C08552",
@@ -191,7 +192,9 @@
             "s": "F3D9A4"
           },
           "backdrop": {
-            "A": "C08552"
+            "A": "C08552",
+            "J": "A0522D",
+            "P": "F3D9A4"
           }
         }
       }
@@ -221,25 +224,27 @@
           "name": "Castle",
           "caption": "A stone castle with a big wooden gate.",
           "art": [
-            "c.c.cc.c.c",
-            "ccAcAAcAcc",
-            "cAAAAAAAAc",
-            "cABAAAABAc",
-            "cAAAAAAAAc",
-            "cAAACCAAAc",
-            "cAACCCCAAc",
-            "cAACCCCAAc",
-            "cAACCCCAAc",
-            "gggggggggg"
+            "A.A.cc.A.A",
+            "ccAcAAAAAA",
+            "cAcccAAcAc",
+            "AcQcAAcQcc",
+            "AAcAccAcAc",
+            "AAAcddcAAA",
+            "cAcdCCCAcc",
+            "cccCCCdcAA",
+            "AAcdCddcAc",
+            "ggwggwwwgg"
           ],
           "ink": {
             "c": "868E96",
-            "g": "74B816"
+            "g": "74B816",
+            "Q": "FFD43B",
+            "d": "7F5539"
           },
           "backdrop": {
             "A": "868E96",
-            "B": "FFD43B",
-            "C": "7F5539"
+            "C": "7F5539",
+            "w": "74B816"
           }
         }
       }
@@ -268,16 +273,16 @@
           "name": "Microscope",
           "caption": "A microscope, ready for a closer look.",
           "art": [
+            ".....At...",
             ".....tt...",
-            ".....tt...",
-            "....tAt.a.",
+            "....tAA.a.",
             "....tt..a.",
-            "...ppppaa.",
-            "......aa..",
+            "...ppEpaa.",
+            "......Ba..",
             "..aaaaa...",
             "...aa.....",
             "..aBBa....",
-            ".aaaaaaa.."
+            ".aaBaaaB.."
           ],
           "ink": {
             "t": "495057",
@@ -286,7 +291,8 @@
           },
           "backdrop": {
             "A": "495057",
-            "B": "868E96"
+            "B": "868E96",
+            "E": "74C0FC"
           }
         }
       }
@@ -313,16 +319,16 @@
           "name": "Lightbulb",
           "caption": "A glowing lightbulb: a bright idea.",
           "art": [
-            "...yyyy...",
-            "..yyAAyy..",
-            ".yyAAAyyy.",
-            ".yAAwByAy.",
-            ".yyAAAAyy.",
-            "..yyAAyy..",
-            "...yyAy...",
-            "...gCCg...",
+            "...yyyA...",
+            "..AAyAAA..",
+            ".yAAyyAAy.",
+            ".yAywwyAy.",
+            ".AyAyyAyy.",
+            "..yAAAAy..",
+            "...yAyy...",
             "...gggg...",
-            "....gg...."
+            "...ggCg...",
+            "....gC...."
           ],
           "ink": {
             "y": "FCC419",
@@ -331,7 +337,6 @@
           },
           "backdrop": {
             "A": "FCC419",
-            "B": "FFF3BF",
             "C": "868E96"
           }
         }
@@ -360,16 +365,16 @@
           "name": "Brick Wall",
           "caption": "A brick wall with a piece knocked out.",
           "art": [
-            "..b..b....",
-            ".bbb.bb...",
-            "bbAbbbbb.b",
-            "bAAAAAAbbb",
-            "bBAAABAAAc",
-            "bAAAAAAAAb",
-            "bABAAABAAb",
-            "bAAAAAAAAb",
-            "bBAAABAAAc",
-            "bbbbbbbbbb"
+            "..A..b....",
+            ".AAb.bb...",
+            "bAAbbAAA.b",
+            "bbAAAbAAbb",
+            "bcbAbcAAAc",
+            "AAbAAbbbAb",
+            "bbcbAAcbAb",
+            "bbbAAAbAAb",
+            "bcbAbBbAbB",
+            "AAAbbbAbbA"
           ],
           "ink": {
             "b": "C92A2A",
@@ -405,26 +410,30 @@
           "name": "Tactics Board",
           "caption": "A tactics board with the game plan drawn up.",
           "art": [
-            "...cccc...",
-            "bbbbAAbbbb",
-            "bBBBBBBBBb",
-            "bBCBBBBBDb",
-            "bBBBBCBBBb",
-            "bBBBDBBBCb",
-            "bBCBBBBBBb",
-            "bBBBBDCBBb",
-            "bBBBBBBBBb",
-            "bbbbbbbbbb"
+            "...AAcc...",
+            "GbGGccGbbb",
+            "bMMBMBMMBG",
+            "GMUMBMBMYG",
+            "bMBBBUMBMG",
+            "bBMMDBBMUb",
+            "bMCMMBBBBb",
+            "bBMBMDCBBb",
+            "GBMMBMMBMb",
+            "GbbGbbGGbb"
           ],
           "ink": {
             "c": "868E96",
-            "b": "8D6E63"
+            "b": "8D6E63",
+            "M": "2F9E44",
+            "U": "F8F9FA",
+            "Y": "FCC419"
           },
           "backdrop": {
             "A": "868E96",
             "B": "2F9E44",
             "C": "F8F9FA",
-            "D": "FCC419"
+            "D": "FCC419",
+            "G": "8D6E63"
           }
         }
       }
