@@ -26,21 +26,26 @@
           "caption": "A sugar skull decorated with flowers.",
           "art": [
             "..wwwwww..",
-            ".wwwwwwww.",
-            "wwwwwwwwww",
-            "wbbwwwwbbw",
-            "wbbwwwwbbw",
-            "wwwwnnwwww",
-            ".wwwwwwww.",
-            "..wpwpww..",
-            "..wwwwww..",
+            ".wAAwAAww.",
+            "wwAwAwAwAw",
+            "wBbwAAwbBw",
+            "wBBAAwAbbw",
+            "wwwACCwwAw",
+            ".wAAwwAAw.",
+            "..wDApAw..",
+            "..wAAwAw..",
             "...wwww..."
           ],
           "ink": {
             "w": "F3D9FA",
             "b": "4DABF7",
-            "n": "E64980",
             "p": "9775FA"
+          },
+          "backdrop": {
+            "A": "F3D9FA",
+            "B": "4DABF7",
+            "C": "E64980",
+            "D": "9775FA"
           }
         }
       }
@@ -70,22 +75,32 @@
           "caption": "Bright paper banners strung up to celebrate.",
           "art": [
             "ssssssssss",
-            "pppp..gggg",
-            "pqqp..ghhg",
-            "pqqp..ghhg",
-            "pppp..gggg",
-            "pqpq..ghgh",
-            "pppp..gggg",
-            "p.p...g.g.",
+            "pAAp.gBBg.",
+            "pCAp.gDBg.",
+            ".pp...gg..",
             "..........",
+            "ssssssssss",
+            ".oEEo.yFFy",
+            ".oGEo.yHFy",
+            "..oo...yy.",
             ".........."
           ],
           "ink": {
             "s": "868E96",
             "p": "E64980",
-            "q": "FFC9E0",
             "g": "40C057",
-            "h": "C3FAE8"
+            "o": "F76707",
+            "y": "FCC419"
+          },
+          "backdrop": {
+            "A": "E64980",
+            "B": "40C057",
+            "C": "FFC9E0",
+            "D": "C3FAE8",
+            "E": "F76707",
+            "F": "FCC419",
+            "G": "FFD8A8",
+            "H": "FFF3BF"
           }
         }
       }
@@ -117,18 +132,21 @@
             "...hhhh...",
             "...h..h...",
             "bbbbbbbbbb",
-            "bbbbbbbbbb",
-            "bbbbccbbbb",
-            "bbbbbbbbbb",
-            "bbbbbbbbbb",
+            "bAAAAAAAAb",
+            "bAAABBAAAb",
+            "bAAAAAAAAb",
+            "bAAAAAAAAb",
             "bbbbbbbbbb",
             "..........",
             ".........."
           ],
           "ink": {
             "h": "495057",
-            "b": "1971C2",
-            "c": "FCC419"
+            "b": "1971C2"
+          },
+          "backdrop": {
+            "A": "1971C2",
+            "B": "FCC419"
           }
         }
       }
@@ -158,10 +176,10 @@
           "art": [
             "..........",
             "..cc.cc...",
-            ".ccccccc.h",
-            "cccccccchh",
-            "ccccccccc.",
-            ".cccccccc.",
+            ".cAAcAAc.h",
+            "cAcAcAAAhh",
+            "cAAAccAcc.",
+            ".ccAccccc.",
             ".c.c..c.c.",
             ".c.c..c.c.",
             ".c.c..c.c.",
@@ -171,6 +189,9 @@
             "c": "C08552",
             "h": "A0522D",
             "s": "F3D9A4"
+          },
+          "backdrop": {
+            "A": "C08552"
           }
         }
       }
@@ -201,21 +222,24 @@
           "caption": "A stone castle with a big wooden gate.",
           "art": [
             "c.c.cc.c.c",
-            "cccccccccc",
-            "cccccccccc",
-            "ccwccccwcc",
-            "cccccccccc",
-            "ccccddcccc",
-            "cccddddccc",
-            "cccddddccc",
-            "cccddddccc",
+            "ccAcAAcAcc",
+            "cAAAAAAAAc",
+            "cABAAAABAc",
+            "cAAAAAAAAc",
+            "cAAACCAAAc",
+            "cAACCCCAAc",
+            "cAACCCCAAc",
+            "cAACCCCAAc",
             "gggggggggg"
           ],
           "ink": {
             "c": "868E96",
-            "w": "FFD43B",
-            "d": "7F5539",
             "g": "74B816"
+          },
+          "backdrop": {
+            "A": "868E96",
+            "B": "FFD43B",
+            "C": "7F5539"
           }
         }
       }
@@ -246,19 +270,23 @@
           "art": [
             ".....tt...",
             ".....tt...",
-            "....ttt.a.",
+            "....tAt.a.",
             "....tt..a.",
             "...ppppaa.",
             "......aa..",
             "..aaaaa...",
             "...aa.....",
-            "..aaaa....",
+            "..aBBa....",
             ".aaaaaaa.."
           ],
           "ink": {
             "t": "495057",
             "a": "868E96",
             "p": "74C0FC"
+          },
+          "backdrop": {
+            "A": "495057",
+            "B": "868E96"
           }
         }
       }
@@ -286,13 +314,13 @@
           "caption": "A glowing lightbulb: a bright idea.",
           "art": [
             "...yyyy...",
-            "..yyyyyy..",
-            ".yyyyyyyy.",
-            ".yyywwyyy.",
-            ".yyyyyyyy.",
-            "..yyyyyy..",
-            "...yyyy...",
-            "...gggg...",
+            "..yyAAyy..",
+            ".yyAAAyyy.",
+            ".yAAwByAy.",
+            ".yyAAAAyy.",
+            "..yyAAyy..",
+            "...yyAy...",
+            "...gCCg...",
             "...gggg...",
             "....gg...."
           ],
@@ -300,6 +328,11 @@
             "y": "FCC419",
             "w": "FFF3BF",
             "g": "868E96"
+          },
+          "backdrop": {
+            "A": "FCC419",
+            "B": "FFF3BF",
+            "C": "868E96"
           }
         }
       }
@@ -329,18 +362,22 @@
           "art": [
             "..b..b....",
             ".bbb.bb...",
-            "bbbbbbbb.b",
-            "bbbbbbbbbb",
-            "bcbbbcbbbc",
-            "bbbbbbbbbb",
-            "bbcbbbcbbb",
-            "bbbbbbbbbb",
-            "bcbbbcbbbc",
+            "bbAbbbbb.b",
+            "bAAAAAAbbb",
+            "bBAAABAAAc",
+            "bAAAAAAAAb",
+            "bABAAABAAb",
+            "bAAAAAAAAb",
+            "bBAAABAAAc",
             "bbbbbbbbbb"
           ],
           "ink": {
             "b": "C92A2A",
             "c": "F3D9A4"
+          },
+          "backdrop": {
+            "A": "C92A2A",
+            "B": "F3D9A4"
           }
         }
       }
@@ -369,22 +406,25 @@
           "caption": "A tactics board with the game plan drawn up.",
           "art": [
             "...cccc...",
-            "bbbbccbbbb",
-            "bggggggggb",
-            "bgxgggggob",
-            "bggggxgggb",
-            "bgggogggxb",
-            "bgxggggggb",
-            "bggggoxggb",
-            "bggggggggb",
+            "bbbbAAbbbb",
+            "bBBBBBBBBb",
+            "bBCBBBBBDb",
+            "bBBBBCBBBb",
+            "bBBBDBBBCb",
+            "bBCBBBBBBb",
+            "bBBBBDCBBb",
+            "bBBBBBBBBb",
             "bbbbbbbbbb"
           ],
           "ink": {
             "c": "868E96",
-            "b": "8D6E63",
-            "g": "2F9E44",
-            "x": "F8F9FA",
-            "o": "FCC419"
+            "b": "8D6E63"
+          },
+          "backdrop": {
+            "A": "868E96",
+            "B": "2F9E44",
+            "C": "F8F9FA",
+            "D": "FCC419"
           }
         }
       }
@@ -411,26 +451,30 @@
         },
         "10": {
           "name": "Flag",
-          "caption": "The American flag: stars in the corner, then stripes.",
+          "caption": "The American flag, waving on its pole.",
           "art": [
-            "bbbbrrrrrr",
-            "bsbbwwwwww",
-            "bbbsrrrrrr",
-            "bsbbwwwwww",
-            "bbbbrrrrrr",
-            "wwwwwwwwww",
-            "rrrrrrrrrr",
-            "wwwwwwwwww",
-            "rrrrrrrrrr",
-            "wwwwwwwwww"
+            "p.........",
+            "pbbbbrr...",
+            "pABABAwwrr",
+            "pAAAAACCDw",
+            "pABABADDCr",
+            "pbbAAACCDw",
+            "p.wwrCDDCr",
+            "p...rrwwrr",
+            "p......ww.",
+            "p........."
           ],
           "ink": {
+            "p": "868E96",
             "b": "1D3557",
-            "r": "C1121F"
+            "r": "C1121F",
+            "w": "DEE2E6"
           },
           "backdrop": {
-            "s": "FFFFFF",
-            "w": "F1F3F5"
+            "A": "1D3557",
+            "B": "F8F9FA",
+            "C": "C1121F",
+            "D": "DEE2E6"
           }
         }
       }
@@ -458,19 +502,23 @@
           "caption": "Saturn, wearing its famous ring.",
           "art": [
             "...yyyy...",
-            "..yyyyyy..",
-            ".yyyyyyyy.",
-            ".yyyyyyyy.",
-            "rrrrrrrrrr",
-            "rrrrrrrrrr",
-            ".yyyyyyyy.",
-            ".yyyyyyyy.",
-            "..yyyyyy..",
+            "..yAAyyy..",
+            ".yyyAyAAy.",
+            ".yAAAyAAy.",
+            "rBrrBrrBrr",
+            "rBrrBBBBBr",
+            ".yyAyyAyy.",
+            ".yyyAAyAy.",
+            "..yAyyAy..",
             "...yyyy..."
           ],
           "ink": {
             "y": "E9C46A",
             "r": "B08968"
+          },
+          "backdrop": {
+            "A": "E9C46A",
+            "B": "B08968"
           }
         }
       }
@@ -498,11 +546,11 @@
           "caption": "A lucky four-leaf clover.",
           "art": [
             ".gg..gg...",
-            "gggggggg..",
-            "gggggggg..",
-            ".gggggg...",
-            "gggggggg..",
-            "gggggggg..",
+            "gggggAAg..",
+            "ggAggggg..",
+            ".gAgAgg...",
+            "gAgAAAAg..",
+            "ggAggggg..",
             ".gg..gg...",
             "....s.....",
             "....s.....",
@@ -511,6 +559,9 @@
           "ink": {
             "g": "2F9E44",
             "s": "74B816"
+          },
+          "backdrop": {
+            "A": "2F9E44"
           }
         }
       }
@@ -539,12 +590,12 @@
           "caption": "A desk globe on its stand, land and sea.",
           "art": [
             "...oooo...",
-            "..oggooo..",
-            ".ogggooog.",
-            ".oogooogg.",
-            ".ooooogoo.",
-            "..oooggo..",
-            "...oooo...",
+            "..ogAooo..",
+            ".oggABoBg.",
+            ".oogoBBAg.",
+            ".oBooBAoo.",
+            "..oBBggo..",
+            "...oBBo...",
             "....kk....",
             "....kk....",
             "..kkkkkk.."
@@ -553,6 +604,10 @@
             "o": "339AF0",
             "g": "40C057",
             "k": "5C3D2E"
+          },
+          "backdrop": {
+            "A": "40C057",
+            "B": "339AF0"
           }
         }
       }
@@ -579,24 +634,29 @@
         },
         "10": {
           "name": "Recycle Bin",
-          "caption": "A green recycling bin with its lid on.",
+          "caption": "A recycling bin, lid popped open.",
           "art": [
-            "...bbbb...",
-            "bbbbbbbbbb",
-            "..........",
-            ".bbbbbbbb.",
-            ".bbdbbdbb.",
-            ".bbdbbdbb.",
-            ".bbdbbdbb.",
-            ".bbdbbdbb.",
-            ".bbbbbbbb.",
-            "..bbbbbb.."
+            "...g......",
+            "..gggg.bb.",
+            ".gAgggg.bb",
+            "llBBlBBlll",
+            ".ggAggAAg.",
+            ".gwgAAwAg.",
+            ".gACgCggg.",
+            ".gAACgggg.",
+            ".ggAggggg.",
+            "..gggggg.."
           ],
           "ink": {
-            "b": "2F9E44"
+            "g": "2F9E44",
+            "l": "1B5E20",
+            "w": "B2F2BB",
+            "b": "4DABF7"
           },
           "backdrop": {
-            "d": "1B5E20"
+            "A": "2F9E44",
+            "B": "1B5E20",
+            "C": "B2F2BB"
           }
         }
       }
@@ -672,8 +732,8 @@
             "..p.......",
             "..p.......",
             "..pp......",
-            "..pppppp..",
-            ".pppppppp.",
+            "..pApppp..",
+            ".ppAAAppp.",
             "..ppppppp.",
             "....l.....",
             "....ll...."
@@ -682,6 +742,9 @@
             "p": "F783AC",
             "k": "343A40",
             "l": "E64980"
+          },
+          "backdrop": {
+            "A": "F783AC"
           }
         }
       }
@@ -715,7 +778,7 @@
             ".wwwwwwww.",
             ".wddwddww.",
             "rrrrrrrrrr",
-            ".rrrrrrrr.",
+            ".rrAAAArr.",
             "..rrrrrr..",
             "vvvvvvvvvv"
           ],
@@ -727,7 +790,8 @@
           "backdrop": {
             "s": "CED4DA",
             "d": "74C0FC",
-            "v": "4DABF7"
+            "v": "4DABF7",
+            "A": "C92A2A"
           }
         }
       }
@@ -806,11 +870,11 @@
             "..........",
             "......hh..",
             "....rrrh..",
-            ".rrrrrrr..",
+            ".rrrAAAr..",
             "rrrrrrrrrr",
             ".kk....kk.",
-            "kkkk..kkkk",
-            "kkkk..kkkk",
+            "kBBk..kBBk",
+            "kBBk..kBBk",
             ".kk....kk.",
             ".........."
           ],
@@ -818,6 +882,10 @@
             "h": "868E96",
             "r": "E03131",
             "k": "343A40"
+          },
+          "backdrop": {
+            "A": "E03131",
+            "B": "343A40"
           }
         }
       }
@@ -895,17 +963,21 @@
             "..........",
             "..........",
             "...h..h...",
-            "..hhhhhh..",
-            "..hhhhhh..",
-            "..bbbbbb..",
-            "h.hhhhhh.h",
-            "hhhhhhhhhh",
+            "..hAhhAh..",
+            "..hhhhAh..",
+            "..bBBBBb..",
+            "h.hhAAAh.h",
+            "hhAAAhhAhh",
             ".hhhhhhhh.",
             ".........."
           ],
           "ink": {
             "h": "A0522D",
             "b": "C92A2A"
+          },
+          "backdrop": {
+            "A": "A0522D",
+            "B": "C92A2A"
           }
         }
       }
@@ -933,14 +1005,14 @@
           "caption": "A snail with a spiral shell, out for a slow stroll.",
           "art": [
             "...ssss...",
-            "..sddddd..",
-            ".sdssssds.",
-            ".sdsddsds.",
-            ".sdsdssds.",
-            ".sdsdddds.",
-            ".sdssssss.",
-            "..sddddd.e",
-            "...ssss..e",
+            "..sAAdAd..",
+            ".sdBsBBAs.",
+            ".sdBddBAs.",
+            ".sABdssAs.",
+            ".sABAdAAs.",
+            ".sdBBBBBs.",
+            "..sdAddd.e",
+            "...sBss..e",
             "bbbbbbbbbb"
           ],
           "ink": {
@@ -948,6 +1020,10 @@
             "d": "A0522D",
             "b": "A9A18C",
             "e": "A9A18C"
+          },
+          "backdrop": {
+            "A": "A0522D",
+            "B": "E8A87C"
           }
         }
       }
@@ -980,9 +1056,9 @@
             "..........",
             "..fff.....",
             ".fkff.....",
-            "offfffff..",
-            ".fffffffff",
-            "..fffffff.",
+            "offAAfff..",
+            ".fAAAfAAff",
+            "..ffAffAf.",
             "...fffff..",
             "....l.l...",
             "bbbbbbbbbb",
@@ -994,6 +1070,9 @@
             "o": "E8590C",
             "l": "6D4C41",
             "b": "6D4C41"
+          },
+          "backdrop": {
+            "A": "E9B000"
           }
         }
       }
@@ -1024,11 +1103,11 @@
             "..b....t..",
             ".bbb...t..",
             ".bwb..ttt.",
-            ".bbbt.twt.",
-            ".bwbtttttt",
-            "bbbbtwttwt",
-            "bwbbtttttt",
-            "bbbbtttwtt",
+            ".bbAt.twt.",
+            ".bwbBtBttt",
+            "bbbAtwttwt",
+            "bwbABtBttt",
+            "bbAABBtwtt",
             "bbbbbttttt"
           ],
           "ink": {
@@ -1036,7 +1115,9 @@
             "t": "5F3DC4"
           },
           "backdrop": {
-            "w": "FFD43B"
+            "w": "FFD43B",
+            "A": "3B1F5C",
+            "B": "5F3DC4"
           }
         }
       }
@@ -1062,25 +1143,28 @@
         },
         "10": {
           "name": "Pumpkin",
-          "caption": "A round orange pumpkin with a curly green stem.",
+          "caption": "A round orange pumpkin with a curly vine.",
           "art": [
-            "....gg....",
-            "....g.....",
-            ".oodoodoo.",
-            "ooodoodooo",
-            "ooodoodooo",
-            "ooodoodooo",
-            "ooodoodooo",
-            ".oodoodoo.",
+            "....gg.l..",
+            "....g.lll.",
+            ".oodooABo.",
+            "ooBdBodoBo",
+            "ooodoBABoo",
+            "oBodBoABBo",
+            "oBoABodoBo",
+            ".oBdooABo.",
             "..oooooo..",
             ".........."
           ],
           "ink": {
             "o": "F77F00",
-            "g": "40916C"
+            "g": "40916C",
+            "l": "74B816",
+            "d": "C75A00"
           },
           "backdrop": {
-            "d": "C75A00"
+            "A": "C75A00",
+            "B": "F77F00"
           }
         }
       }
@@ -1111,16 +1195,19 @@
             "..h....h..",
             "..h....h..",
             "bbbbbbbbbb",
-            "bbbbbbbbbb",
-            "bbbbbbbbbb",
-            "bbbbbbbbbb",
-            "bbbbbbbbbb",
-            "bbbbbbbbbb",
+            "bAAAAAAAAb",
+            "bAAAAAAAAb",
+            "bAAAAAAAAb",
+            "bAAAAAAAAb",
+            "bAAAAAAAAb",
             "bbbbbbbbbb"
           ],
           "ink": {
             "h": "343A40",
             "b": "F06595"
+          },
+          "backdrop": {
+            "A": "F06595"
           }
         }
       }
@@ -1150,14 +1237,14 @@
           "caption": "A little shop with a striped awning.",
           "art": [
             "rwrwrwrwrw",
-            "rwrwrwrwrw",
-            ".rwrwrwrw.",
-            ".ssssssss.",
+            "rABABABABw",
+            ".rABABABw.",
+            ".sssCsCss.",
             ".sggsdsgs.",
             ".sggsdsgs.",
-            ".ssssdssss",
-            ".ssssdsss.",
-            ".sssssssss",
+            ".ssssdssCs",
+            ".sCCsdsCs.",
+            ".sCCCsCCCs",
             "kkkkkkkkkk"
           ],
           "ink": {
@@ -1168,7 +1255,10 @@
           },
           "backdrop": {
             "g": "A5D8FF",
-            "d": "7F5539"
+            "d": "7F5539",
+            "A": "F8F9FA",
+            "B": "E03131",
+            "C": "E9C46A"
           }
         }
       }
@@ -1196,22 +1286,25 @@
           "caption": "An arcade cabinet waiting for quarters.",
           "art": [
             ".cccccccc.",
-            ".cmmmmmmc.",
-            ".cccccccc.",
-            ".cssssssc.",
-            ".cssssssc.",
-            ".cccccccc.",
-            "ccbccrcccc",
-            ".cccccccc.",
-            ".cccccccc.",
+            ".cAAAAAAc.",
+            ".cBBBBBBc.",
+            ".cCCCCCCc.",
+            ".cCCCCCCc.",
+            ".cBBBBBBc.",
+            "ccDBBEBBcc",
+            ".cBBBBBBc.",
+            ".cBBBBBBc.",
             ".cccccccc."
           ],
           "ink": {
-            "c": "5F3DC4",
-            "m": "FCC419",
-            "s": "212529",
-            "b": "E03131",
-            "r": "4DABF7"
+            "c": "5F3DC4"
+          },
+          "backdrop": {
+            "A": "FCC419",
+            "B": "5F3DC4",
+            "C": "212529",
+            "D": "E03131",
+            "E": "4DABF7"
           }
         }
       }
@@ -1287,9 +1380,9 @@
             "yyyyyyyyyy",
             "ywwywwywwy",
             "ywwywwywwy",
-            "yyyyyyyyyy",
-            "yyyyyyyyyy",
-            "yyyyyyyyyy",
+            "yyyAyyAyyy",
+            "yAAAAAAAAy",
+            "yAAyyyyAAy",
             ".kk....kk.",
             ".kk....kk.",
             ".........."
@@ -1299,7 +1392,8 @@
             "k": "343A40"
           },
           "backdrop": {
-            "w": "A5D8FF"
+            "w": "A5D8FF",
+            "A": "FAB005"
           }
         }
       }
@@ -1328,10 +1422,10 @@
           "art": [
             "..g....g..",
             "..rrrrrr..",
-            "..rrrrrr..",
-            "..rrrrrr..",
-            "..rrrrrr..",
-            ".gggggggg.",
+            "..rAAAAr..",
+            "..rAAAAr..",
+            "..rAAAAr..",
+            ".gBBBBBBg.",
             ".gggggggg.",
             ".g......g.",
             ".g......g.",
@@ -1340,6 +1434,10 @@
           "ink": {
             "g": "E9B000",
             "r": "862E9C"
+          },
+          "backdrop": {
+            "A": "862E9C",
+            "B": "E9B000"
           }
         }
       }
@@ -1368,14 +1466,14 @@
           "caption": "A cheerful little slime monster.",
           "art": [
             "....ss....",
-            "...ssss...",
-            "..ssssss..",
-            ".ssssssss.",
-            ".sksssks..",
-            "ssksssksss",
-            "ssssssssss",
-            "sssmmmmsss",
-            "ssssssssss",
+            "...sAss...",
+            "..ssAAAs..",
+            ".ssAAssAs.",
+            ".sksAsks..",
+            "ssksAsksss",
+            "sAsssssAAs",
+            "sAsmmmmsAs",
+            "sAAssssAAs",
             ".ssssssss."
           ],
           "ink": {
@@ -1383,7 +1481,8 @@
           },
           "backdrop": {
             "k": "212529",
-            "m": "1864AB"
+            "m": "1864AB",
+            "A": "4DABF7"
           }
         }
       }
@@ -1460,10 +1559,10 @@
           "art": [
             "....f.....",
             "....c..ff.",
-            "cdcdcdcdc.",
-            "cdcdcdcdc.",
-            "cdcdcdcdc.",
-            "bbbbbbbbb.",
+            "cdcdAdcBc.",
+            "cBABABABc.",
+            "cBABABABc.",
+            "bbbbCbbbb.",
             "....b.....",
             "....b.....",
             "..bbbbb...",
@@ -1474,6 +1573,11 @@
             "c": "D0EBFF",
             "d": "74C0FC",
             "b": "E9B000"
+          },
+          "backdrop": {
+            "A": "D0EBFF",
+            "B": "74C0FC",
+            "C": "E9B000"
           }
         }
       }
@@ -1502,14 +1606,14 @@
           "caption": "A boot left out for St. Nicholas, filled with candy.",
           "art": [
             "..c.p.....",
-            ".cccppp...",
-            "wwwwwww...",
+            ".cAcppp...",
+            "wwwwBBw...",
+            ".rCrrr....",
+            ".rCCrr....",
             ".rrrrr....",
-            ".rrrrr....",
-            ".rrrrr....",
-            ".rrrrrr...",
-            ".rrrrrrrr.",
-            ".rrrrrrrrr",
+            ".rCrCrr...",
+            ".rrCrrrrr.",
+            ".rCrCCrrCr",
             "..rrrrrrr."
           ],
           "ink": {
@@ -1517,6 +1621,11 @@
             "p": "40C057",
             "w": "F8F9FA",
             "r": "C92A2A"
+          },
+          "backdrop": {
+            "A": "E03131",
+            "B": "F8F9FA",
+            "C": "C92A2A"
           }
         }
       }
@@ -1545,10 +1654,10 @@
           "caption": "A stage spotlight, warmed up for the big night.",
           "art": [
             "..kkkkkk..",
-            ".kyyyyyyk.",
-            ".kyyyyyyk.",
-            ".kyyyyyyk.",
-            "..kkkkkk..",
+            ".kAyyAAyk.",
+            ".kAyAyAyk.",
+            ".kyAAAyyk.",
+            "..kkBkkk..",
             "....kk....",
             "...kkkk...",
             "...k..k...",
@@ -1558,6 +1667,10 @@
           "ink": {
             "k": "343A40",
             "y": "FFF3BF"
+          },
+          "backdrop": {
+            "A": "FFF3BF",
+            "B": "343A40"
           }
         }
       }
@@ -1627,21 +1740,25 @@
           "caption": "An old desktop computer with its keyboard.",
           "art": [
             ".mmmmmmmm.",
-            ".mssssssm.",
-            ".mssssssm.",
-            ".mssssssm.",
-            ".mssssssm.",
-            ".mmmmmmmm.",
+            ".mAAAAAAm.",
+            ".mAAAAAAm.",
+            ".mAAAAAAm.",
+            ".mAAAAAAm.",
+            ".mmmBBmmm.",
             "....mm....",
-            "...mmmm...",
-            "kkkkkkkkkk",
+            "...mBBm...",
+            "kkkCCCCkkk",
             "klklklklkk"
           ],
           "ink": {
             "m": "ADB5BD",
-            "s": "2B8A3E",
             "k": "868E96",
             "l": "343A40"
+          },
+          "backdrop": {
+            "A": "2B8A3E",
+            "B": "ADB5BD",
+            "C": "868E96"
           }
         }
       }
@@ -1671,18 +1788,22 @@
             "..........",
             "..........",
             ".cccccccc.",
-            "ccdccccbcc",
-            "cdddccbcbc",
-            "ccdccccbcc",
-            "cccccccccc",
-            "ccc....ccc",
+            "ccAcBBBCcc",
+            "cAAAcBbcCc",
+            "cBABBBcCcc",
+            "cBBccccBBc",
+            "cBc....cBc",
             "cc......cc",
             ".........."
           ],
           "ink": {
             "c": "495057",
-            "d": "212529",
             "b": "FA5252"
+          },
+          "backdrop": {
+            "A": "212529",
+            "B": "495057",
+            "C": "FA5252"
           }
         }
       }
@@ -1713,13 +1834,13 @@
           "caption": "Snowy mountain peaks above a green valley.",
           "art": [
             "...s......",
-            "..sss.....",
+            "..sAs.....",
             "..srs...s.",
-            ".rrrrr.sss",
-            ".rrrrrrsrs",
-            "rrrrrrrrrr",
-            "rrrrrrrrrr",
-            "gggggggggg",
+            ".rrrBr.sss",
+            ".rBrBBrABs",
+            "rBBBrrrrBr",
+            "rBrBBBrBrr",
+            "gCCgCgCgCg",
             "gggggggggg",
             ".........."
           ],
@@ -1727,6 +1848,11 @@
             "s": "D0EBFF",
             "r": "868E96",
             "g": "40C057"
+          },
+          "backdrop": {
+            "A": "D0EBFF",
+            "B": "868E96",
+            "C": "40C057"
           }
         }
       }
@@ -1797,8 +1923,8 @@
           "art": [
             ".....y....",
             "....yyy...",
-            ".yyyyyyyyy",
-            "..yyyyyyy.",
+            ".yyyAyyyyy",
+            "..yyyAyAy.",
             "..tyyyyy..",
             ".ttyyyyyy.",
             "tttyy..yy.",
@@ -1809,6 +1935,9 @@
           "ink": {
             "t": "A5D8FF",
             "y": "FCC419"
+          },
+          "backdrop": {
+            "A": "FCC419"
           }
         }
       }
@@ -1839,11 +1968,11 @@
           "art": [
             "...gggg...",
             "..gggggg..",
-            ".gpgggbbg.",
-            "ggggbbbbgg",
-            "ggpgbbbbgg",
-            ".gggggggp.",
-            "..gggggg..",
+            ".gpAAgBBg.",
+            "gAAgbBbbgg",
+            "ggpgBbbbgg",
+            ".gAgggAgp.",
+            "..ggAggg..",
             "....tt....",
             "....tt....",
             "..tttttt.."
@@ -1853,6 +1982,10 @@
             "p": "FAB005",
             "b": "A0522D",
             "t": "6D4C41"
+          },
+          "backdrop": {
+            "A": "2F9E44",
+            "B": "A0522D"
           }
         }
       }
@@ -1919,25 +2052,26 @@
         },
         "10": {
           "name": "Piano",
-          "caption": "Piano keys, black and white.",
+          "caption": "An upright piano, keys and all.",
           "art": [
-            "wwwwwwwwww",
-            "wwwwwwwwww",
-            "wbwbwwbwbw",
-            "wbwbwwbwbw",
-            "wbwbwwbwbw",
-            "eeeeeeeeee",
-            "eeeeeeeeee",
-            "eeeeeeeeee",
-            "eeeeeeeeee",
-            "wwwwwwwwww"
+            "..........",
+            ".kkkkkkkk.",
+            "kkAAAAAAkk",
+            "kAAAAAAAAk",
+            "kBCBCBBCBk",
+            "kBCBCBBCBk",
+            "kBBBBBBBBk",
+            "kkkkkkkkkk",
+            ".k......k.",
+            "kk......kk"
           ],
           "ink": {
-            "w": "6D4C41",
-            "b": "212529"
+            "k": "6D4C41"
           },
           "backdrop": {
-            "e": "F8F9FA"
+            "A": "6D4C41",
+            "B": "F1F3F5",
+            "C": "212529"
           }
         }
       }
@@ -1968,8 +2102,8 @@
             "..........",
             "wwwwwwwwww",
             ".s..pp..s.",
-            ".s.pppp.s.",
-            "wwwwwwwwww",
+            ".s.pAAp.s.",
+            "wwwwBBwwww",
             "....pp....",
             "....pp....",
             "...pppp...",
@@ -1980,6 +2114,10 @@
             "w": "E03131",
             "s": "6D4C41",
             "p": "FFD43B"
+          },
+          "backdrop": {
+            "A": "FFD43B",
+            "B": "E03131"
           }
         }
       }
@@ -2008,13 +2146,13 @@
           "caption": "A gloriously ugly holiday sweater.",
           "art": [
             "..rr..rr..",
-            ".rrrrrrrr.",
-            "rrrrrrrrrr",
-            "rwrwrwrwrw",
-            "rr.rrrr.rr",
-            "rr.rwwr.rr",
-            "rr.rrrr.rr",
-            "rr.rrrr.rr",
+            ".rrArrAAr.",
+            "rAAAAAAAAr",
+            "rBrBABAwAw",
+            "rr.rAAr.rr",
+            "rr.rBBr.rr",
+            "rr.rAAr.rr",
+            "rr.rAAr.rr",
             "gg.gggg.gg",
             ".........."
           ],
@@ -2022,6 +2160,10 @@
             "r": "C92A2A",
             "w": "F8F9FA",
             "g": "2F9E44"
+          },
+          "backdrop": {
+            "A": "C92A2A",
+            "B": "F8F9FA"
           }
         }
       }
@@ -2049,12 +2191,12 @@
           "caption": "A football helmet with its face mask.",
           "art": [
             "..hhhhh...",
-            ".hhhhhhhh.",
+            ".hhhhAhhh.",
             "hhhhhhhhhh",
-            "hhhhhhwwhh",
-            "hhhhhhwwh.",
-            "hhhhhhhh..",
-            ".hhhhhh.m.",
+            "hAAhAhwwhh",
+            "hAhAhhwwh.",
+            "hhAhAhhh..",
+            ".hhAAhh.m.",
             "..hhh..mmm",
             ".....mmmm.",
             ".........."
@@ -2064,7 +2206,8 @@
             "m": "ADB5BD"
           },
           "backdrop": {
-            "w": "F8F9FA"
+            "w": "F8F9FA",
+            "A": "1971C2"
           }
         }
       }
@@ -2133,14 +2276,14 @@
           "caption": "A snowman in a black top hat, with coal eyes and buttons.",
           "art": [
             "...hhh....",
-            "..hhhhh...",
+            "..hhAhh...",
             "..wewew...",
-            "..wwwww...",
-            ".wwwwwww..",
-            ".wwwewww..",
-            "wwwwwwwww.",
-            "wwwwewwww.",
-            "wwwwwwwww.",
+            "..wwBww...",
+            ".wBBwBBw..",
+            ".wBwewBw..",
+            "wBBwwwBBw.",
+            "wwBwewBBw.",
+            "wBBBwwBBw.",
             ".wwwwwww.."
           ],
           "ink": {
@@ -2148,7 +2291,9 @@
             "w": "F1F3F5"
           },
           "backdrop": {
-            "e": "343A40"
+            "e": "343A40",
+            "A": "212529",
+            "B": "F1F3F5"
           }
         }
       }
@@ -2180,11 +2325,11 @@
             "...s..s...",
             "..........",
             "owwowwo...",
-            "mmmmmmmm..",
-            "mmmmmmmmmm",
-            "mmmmmmmm.m",
-            "mmmmmmmmmm",
-            "mmmmmmmm..",
+            "mAAmAAmm..",
+            "mmAmAAAAmm",
+            "mAmAmAAm.m",
+            "mmAAAAAmmm",
+            "mAAAmmmm..",
             ".mmmmmm..."
           ],
           "ink": {
@@ -2193,7 +2338,8 @@
             "w": "FFFFFF"
           },
           "backdrop": {
-            "s": "CED4DA"
+            "s": "CED4DA",
+            "A": "C1121F"
           }
         }
       }
@@ -2222,17 +2368,20 @@
           "art": [
             ".....w....",
             ".....ww...",
-            "....wwww..",
-            "....wwwww.",
-            "...wwww...",
-            "..wwwww...",
-            ".wwwwww...",
-            "wwwwwww...",
-            "wwwwwwww..",
+            "....wAAw..",
+            "....wwAww.",
+            "...wAww...",
+            "..wwAAw...",
+            ".wAwAww...",
+            "wwAAAww...",
+            "wAAwAAAw..",
             "wwwwwwwww."
           ],
           "ink": {
             "w": "495057"
+          },
+          "backdrop": {
+            "A": "495057"
           }
         }
       }
@@ -2261,19 +2410,22 @@
           "caption": "A red stocking with a white cuff, ready to hang.",
           "art": [
             ".wwwww....",
-            ".rrrrr....",
-            ".rrrrr....",
-            ".rrrrr....",
-            ".rrrrr....",
-            ".rrrrrr...",
-            ".rrrrrrrr.",
-            ".rrrrrrrrr",
-            "..rrrrrrrr",
+            ".rAArr....",
+            ".rAAAr....",
+            ".rrArr....",
+            ".rAAAr....",
+            ".rrrAAr...",
+            ".rrAArArr.",
+            ".rrAAArAAr",
+            "..rArrArrr",
             "...rrrrr.."
           ],
           "ink": {
             "w": "F8F9FA",
             "r": "C1121F"
+          },
+          "backdrop": {
+            "A": "C1121F"
           }
         }
       }
@@ -2306,7 +2458,7 @@
             "...ggg....",
             "..ggogg...",
             "..ggggg...",
-            ".ggrgggg..",
+            ".ggrgAgg..",
             ".ggggggg..",
             "gggggoggg.",
             "....b.....",
@@ -2319,7 +2471,8 @@
           },
           "backdrop": {
             "o": "FFB703",
-            "r": "E63946"
+            "r": "E63946",
+            "A": "2D6A4F"
           }
         }
       }
@@ -2349,10 +2502,10 @@
           "art": [
             "....f.....",
             ".rrrkggg..",
-            ".rrrkggg..",
-            ".rrrkggg..",
-            "bbbbbbbbb.",
-            "..bbbbb...",
+            ".rrABCgg..",
+            ".rrAkCCg..",
+            "bbbDDDDbb.",
+            "..bDbbb...",
             "...bbb....",
             "...bbb....",
             ".bbbbbbb..",
@@ -2364,6 +2517,12 @@
             "k": "212529",
             "g": "2F9E44",
             "b": "8D6E63"
+          },
+          "backdrop": {
+            "A": "C92A2A",
+            "B": "212529",
+            "C": "2F9E44",
+            "D": "8D6E63"
           }
         }
       }
@@ -2393,11 +2552,11 @@
           "caption": "An old-time radio microphone on its stand.",
           "art": [
             "...mmmm...",
-            "..mgmgmm..",
-            "..mmgmgm..",
-            "..mgmgmm..",
-            "..mmgmgm..",
-            "...mmmm...",
+            "..mABABm..",
+            "..mBABAm..",
+            "..mgBABm..",
+            "..mBABAm..",
+            "...mBBm...",
             "....ss....",
             "....ss....",
             "....ss....",
@@ -2407,6 +2566,10 @@
             "m": "ADB5BD",
             "g": "495057",
             "s": "343A40"
+          },
+          "backdrop": {
+            "A": "495057",
+            "B": "ADB5BD"
           }
         }
       }
@@ -2435,23 +2598,26 @@
         },
         "10": {
           "name": "Clapperboard",
-          "caption": "A movie clapperboard. Take one!",
+          "caption": "A movie clapperboard, snapping shut. Take one!",
           "art": [
-            "wwkkwwkkww",
-            "wwkkwwkkww",
+            "......kkww",
+            "...kkwwkk.",
+            "kkwwkk....",
             "k.........",
             "kkkkkkkkkk",
-            "kkkkkkkkkk",
-            "kllllllllk",
-            "kkkkkkkkkk",
-            "klllkllllk",
-            "kkkkkkkkkk",
+            "kAAAAAAAAk",
+            "kBBBBBBBBk",
+            "kAAAABAAAk",
+            "kBBBBBBBBk",
             "kkkkkkkkkk"
           ],
           "ink": {
-            "w": "F1F3F5",
             "k": "212529",
-            "l": "868E96"
+            "w": "ADB5BD"
+          },
+          "backdrop": {
+            "A": "ADB5BD",
+            "B": "212529"
           }
         }
       }
@@ -2481,18 +2647,22 @@
           "art": [
             "....tt....",
             "....tt....",
-            "...tttt...",
-            "...tptt...",
-            "..ttpttt..",
-            "..ttpttt..",
-            ".ttpttttt.",
+            "...ttAt...",
+            "...tBAt...",
+            "..ttpAAt..",
+            "..ttBAAt..",
+            ".tAptttAt.",
             ".tttttttt.",
-            "tttttttttt",
+            "ttAAtAtAAt",
             "tttttttttt"
           ],
           "ink": {
             "t": "8D5524",
             "p": "FCC419"
+          },
+          "backdrop": {
+            "A": "8D5524",
+            "B": "FCC419"
           }
         }
       }
@@ -2521,12 +2691,12 @@
           "caption": "A frying pan with an egg sunny-side up and bacon.",
           "art": [
             ".pppppp...",
-            "pwwwwwwp..",
-            "pwwyywwp..",
-            "pwwyywwp..",
-            "pwwwwwwppp",
-            "pbbbbbbp..",
-            "pwwwwwwp..",
+            "pAAAAwwp..",
+            "pAABBAwp..",
+            "pAwBBAAp..",
+            "pwAwAAAppp",
+            "pCCbCCCp..",
+            "pAAwwwwp..",
             ".pppppp...",
             "..........",
             ".........."
@@ -2534,8 +2704,12 @@
           "ink": {
             "p": "343A40",
             "w": "F8F9FA",
-            "y": "FCC419",
             "b": "C2410C"
+          },
+          "backdrop": {
+            "A": "F8F9FA",
+            "B": "FCC419",
+            "C": "C2410C"
           }
         }
       }
@@ -2566,9 +2740,9 @@
             "....y.y...",
             "...y......",
             "..wwwwww..",
-            "..wyyyyw..",
-            "..wyyyyw..",
-            "..wyyyyw..",
+            "..wAAAAw..",
+            "..wAAAAw..",
+            "..wyAAyw..",
             "...wyyw...",
             "....ww....",
             "....ww....",
@@ -2577,6 +2751,9 @@
           "ink": {
             "w": "DEE2E6",
             "y": "F4D35E"
+          },
+          "backdrop": {
+            "A": "F4D35E"
           }
         }
       }
@@ -2605,12 +2782,12 @@
           "art": [
             "...rrrr...",
             ".rrwwwwrr.",
-            ".rwwwkwwr.",
-            "rwwwwkwwwr",
-            "rwwwwkwwwr",
-            "rwwwwwwwwr",
-            "rwwwwwwwwr",
-            ".rwwwwwwr.",
+            ".rwAwkwwr.",
+            "rwAAwkwAwr",
+            "rwAAwkwAwr",
+            "rwAAAwAAwr",
+            "rwAAAAAAwr",
+            ".rwAAAAwr.",
             ".rrwwwwrr.",
             "...rrrr..."
           ],
@@ -2619,7 +2796,8 @@
             "w": "F8F9FA"
           },
           "backdrop": {
-            "k": "212529"
+            "k": "212529",
+            "A": "F8F9FA"
           }
         }
       }
@@ -2648,13 +2826,13 @@
           "art": [
             "..........",
             "...bbbb...",
-            "..bbbbbb..",
+            "..bbAAbb..",
             "..bkbbkb..",
             "..bbnnbb..",
             "...bbbb...",
-            "..bbbbbb..",
-            ".bbbbbbbb.",
-            "gggggggggg",
+            "..bAAAbb..",
+            ".bbbAbAbb.",
+            "ggBgggBBBg",
             "gggggggggg"
           ],
           "ink": {
@@ -2663,7 +2841,9 @@
           },
           "backdrop": {
             "k": "212529",
-            "n": "5D4037"
+            "n": "5D4037",
+            "A": "8D6E63",
+            "B": "52B788"
           }
         }
       }
@@ -2693,12 +2873,12 @@
           "art": [
             "....yy....",
             "...rrrr...",
-            ".rrrrrrrr.",
-            "rrrrrrrrrr",
-            "rrdrrrrdrr",
-            "rrdrrrrdrr",
-            "rrrrrrrrrr",
-            ".rrrrrrrr.",
+            ".rrrrArrr.",
+            "rrrrArrrAr",
+            "rrdrArrdrr",
+            "rrdrAArdrr",
+            "rArAAAArAr",
+            ".rrrArArr.",
             "...rrrr...",
             "....yy...."
           ],
@@ -2707,7 +2887,8 @@
             "y": "FFC300"
           },
           "backdrop": {
-            "d": "9D0208"
+            "d": "9D0208",
+            "A": "D62828"
           }
         }
       }

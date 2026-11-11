@@ -317,12 +317,12 @@
           "caption": "A proud turkey with its tail fanned out.",
           "art": [
             "..rroorr..",
-            ".rooyyoor.",
-            "rooybbyoor",
-            "roybkbbyor",
-            "roybbbbyor",
-            ".oybbbbyo.",
-            "..bbbbbb..",
+            ".rAoByAAr.",
+            "rAAyCbBAAr",
+            "roybDbbBor",
+            "roybCbCBor",
+            ".oBbbbbyo.",
+            "..bbbCCb..",
             "...bbbb...",
             "...l..l...",
             "..ll..ll.."
@@ -332,8 +332,13 @@
             "o": "F76707",
             "y": "FCC419",
             "b": "8D5524",
-            "k": "212529",
             "l": "F59F00"
+          },
+          "backdrop": {
+            "A": "F76707",
+            "B": "FCC419",
+            "C": "8D5524",
+            "D": "212529"
           }
         },
         {
@@ -343,10 +348,10 @@
             "..........",
             "bb........",
             "bbb.......",
-            ".bbbbrrgg.",
-            "..bbbrrggo",
-            "..bbbbyyoo",
-            "...bbbyyo.",
+            ".bAbbrrgg.",
+            "..bbABrCCo",
+            "..bAAAyyoo",
+            "...bbbDDo.",
             "....bbbb..",
             "..........",
             ".........."
@@ -357,6 +362,12 @@
             "g": "74B816",
             "y": "FCC419",
             "o": "F76707"
+          },
+          "backdrop": {
+            "A": "B08968",
+            "B": "C92A2A",
+            "C": "74B816",
+            "D": "FCC419"
           }
         },
         {
@@ -389,12 +400,12 @@
           "art": [
             "..tt......",
             ".tttt.....",
-            "tttttt.ss.",
-            "tttttsssks",
-            "tttttsssss",
-            ".tttsssss.",
-            "..ttssss..",
-            "...sssss..",
+            "tAttAt.ss.",
+            "tAAAtsssks",
+            "tttAtsBsss",
+            ".tttsBsBs.",
+            "..ttsBBs..",
+            "...sBsBs..",
             "...ssssa..",
             "..ss..ss.."
           ],
@@ -403,6 +414,10 @@
             "s": "D9480F",
             "k": "212529",
             "a": "7F5539"
+          },
+          "backdrop": {
+            "A": "C2410C",
+            "B": "D9480F"
           }
         },
         {
@@ -412,18 +427,23 @@
             "o........o",
             "oo......oo",
             "ooo....ooo",
-            "oooooooooo",
-            "okoooookoo",
-            "oooooooooo",
-            "wwoooooww.",
-            ".wwwoowww.",
-            "..wwwkww..",
+            "ooAooooAAo",
+            "okooAAokoo",
+            "oooAoAAAoo",
+            "wwAooooBw.",
+            ".wwwooBww.",
+            "..wwwCww..",
             "...wwww..."
           ],
           "ink": {
             "o": "F76707",
             "k": "212529",
             "w": "F8F0E3"
+          },
+          "backdrop": {
+            "A": "F76707",
+            "B": "F8F0E3",
+            "C": "212529"
           }
         },
         {
@@ -434,9 +454,9 @@
             "aaa....aaa",
             "..aa..aa..",
             "..dddddd..",
-            "ddkddddkdd",
-            ".dddddddd.",
-            "..dddddd..",
+            "ddkdAAdkdd",
+            ".dddAAddd.",
+            "..ddAAdd..",
             "...dddd...",
             "...dnnd...",
             "....dd...."
@@ -446,6 +466,9 @@
             "d": "C08552",
             "k": "212529",
             "n": "5C3D2E"
+          },
+          "backdrop": {
+            "A": "C08552"
           }
         },
         {
@@ -454,10 +477,10 @@
           "art": [
             "..s.s.s...",
             ".sssssss..",
-            "sssssssss.",
-            "sssssssfff",
-            "sssssssfkf",
-            "ssssssfffn",
+            "ssAAAAAss.",
+            "sAsAAAABff",
+            "ssAAAAsBCf",
+            "ssAAAsBBfn",
             ".ssssssff.",
             "..ll..ll..",
             "..........",
@@ -466,9 +489,13 @@
           "ink": {
             "s": "6D4C41",
             "f": "E9C9A0",
-            "k": "212529",
             "n": "212529",
             "l": "8D6E63"
+          },
+          "backdrop": {
+            "A": "6D4C41",
+            "B": "E9C9A0",
+            "C": "212529"
           }
         },
         {
@@ -477,19 +504,24 @@
           "art": [
             "....rr....",
             "...rrrr...",
-            "..rrrrrr..",
-            ".rrrrrrrr.",
-            "rrrrwwrrrr",
-            "rrrrwwrrrr",
-            "rrwwwwwwrr",
-            "rrwddddwrr",
-            "rrwddddwrr",
+            "..rAAAAr..",
+            ".rAArAArr.",
+            "rArrwBAAAr",
+            "rArrwwAAAr",
+            "rAwBBBwBAr",
+            "rAwddCCwrr",
+            "rAwCCddBAr",
             "rrwddddwrr"
           ],
           "ink": {
             "r": "C92A2A",
             "w": "DEE2E6",
             "d": "7F5539"
+          },
+          "backdrop": {
+            "A": "C92A2A",
+            "B": "DEE2E6",
+            "C": "7F5539"
           }
         },
         {
@@ -518,10 +550,10 @@
           "art": [
             "..........",
             "..oo..oo..",
-            ".oooooooo.",
-            "wwwwwwwwww",
-            "wwwwwwwwww",
-            ".wwwwwwww.",
+            ".oAAooAAo.",
+            "wwwBBBBBBw",
+            "wBBwBwwBBw",
+            ".wBwwwwBw.",
             ".kk....kk.",
             ".kk....kk.",
             "..........",
@@ -531,6 +563,10 @@
             "o": "F76707",
             "w": "C92A2A",
             "k": "343A40"
+          },
+          "backdrop": {
+            "A": "F76707",
+            "B": "C92A2A"
           }
         },
         {
@@ -541,9 +577,9 @@
             "..........",
             "....ro....",
             "...yrgo...",
-            "..orygro..",
-            ".ryogryoy.",
-            "oyrgoyrgoy",
+            "..oAyBro..",
+            ".rCogrCDy.",
+            "oyABDCrBDy",
             "roygryoygr",
             "..........",
             ".........."
@@ -553,6 +589,12 @@
             "o": "F76707",
             "y": "FCC419",
             "g": "A9C23F"
+          },
+          "backdrop": {
+            "A": "C92A2A",
+            "B": "A9C23F",
+            "C": "FCC419",
+            "D": "F76707"
           }
         },
         {
@@ -562,10 +604,10 @@
             "...s..s...",
             "..s..s....",
             ".llllllll.",
-            "pppppppppp",
-            ".pppppppp.",
-            ".pppppppp.",
-            ".pppppppp.",
+            "ppAAppAAAp",
+            ".pAAAAAAp.",
+            ".pAAAAAAp.",
+            ".pAApApAp.",
             "..pppppp..",
             "..........",
             ".........."
@@ -575,7 +617,8 @@
             "p": "495057"
           },
           "backdrop": {
-            "s": "CED4DA"
+            "s": "CED4DA",
+            "A": "495057"
           }
         },
         {
@@ -583,9 +626,9 @@
           "caption": "A gray cloud with rain coming down.",
           "art": [
             "....cc....",
-            "..ccccc...",
-            ".cccccccc.",
-            "cccccccccc",
+            "..ccAAc...",
+            ".cAAAAAcc.",
+            "cccccAAAcc",
             ".cccccccc.",
             "..........",
             ".d..d..d..",
@@ -596,6 +639,9 @@
           "ink": {
             "c": "868E96",
             "d": "4DABF7"
+          },
+          "backdrop": {
+            "A": "868E96"
           }
         },
         {
@@ -605,8 +651,8 @@
             "...yyyy...",
             ".yyyyyyyy.",
             ".yybbbbyy.",
-            "yybbbbbbyy",
-            "yybbbbbbyy",
+            "yybAAAAbyy",
+            "yybAAAAbyy",
             ".yybbbbyy.",
             ".yyyyyyyy.",
             "...yygy...",
@@ -617,6 +663,9 @@
             "y": "FCC419",
             "b": "6D4C41",
             "g": "2F9E44"
+          },
+          "backdrop": {
+            "A": "6D4C41"
           }
         },
         {
@@ -624,14 +673,14 @@
           "caption": "A maple tree at the peak of fall color.",
           "art": [
             "...rooy...",
-            ".ryyorroo.",
-            "roorryyorr",
-            "ryyoorrooy",
-            ".roryyoor.",
-            "..ooyrro..",
+            ".ryAoBroo.",
+            "rCCBrAyorr",
+            "rAyoorroCy",
+            ".roBAyCCr.",
+            "..ooArro..",
             "....tt....",
             "....tt....",
-            "...tttt...",
+            "...tDDt...",
             "gggggggggg"
           ],
           "ink": {
@@ -640,6 +689,12 @@
             "y": "FCC419",
             "t": "6D4C41",
             "g": "74B816"
+          },
+          "backdrop": {
+            "A": "FCC419",
+            "B": "C92A2A",
+            "C": "F76707",
+            "D": "6D4C41"
           }
         },
         {
@@ -648,18 +703,21 @@
           "art": [
             "..........",
             "...kkkk...",
-            "...kkkk...",
-            "...kkkk...",
-            "...kyyk...",
-            "...kyyk...",
-            "kkkkkkkkkk",
+            "...kAAk...",
+            "...kAAk...",
+            "...kBBk...",
+            "...kBBk...",
+            "kkkAAAAkkk",
             "kkkkkkkkkk",
             "..........",
             ".........."
           ],
           "ink": {
-            "k": "343A40",
-            "y": "FCC419"
+            "k": "343A40"
+          },
+          "backdrop": {
+            "A": "343A40",
+            "B": "FCC419"
           }
         },
         {
@@ -668,13 +726,13 @@
           "art": [
             "......cc..",
             "...rrrcc..",
-            "..rrrrrr..",
-            ".rrrrrrrr.",
-            "rrrrrrrrrr",
-            ".llllllll.",
-            ".lwwllddl.",
-            ".lwwllddl.",
-            ".llllllll.",
+            "..rAArAr..",
+            ".rrAArrrr.",
+            "rAArAAArrr",
+            ".lllBllBl.",
+            ".lwClldDl.",
+            ".lCwBlDDl.",
+            ".lBBBBBll.",
             "gggggggggg"
           ],
           "ink": {
@@ -684,6 +742,12 @@
             "w": "FFD43B",
             "d": "3E2723",
             "g": "74B816"
+          },
+          "backdrop": {
+            "A": "5C3D2E",
+            "B": "A0522D",
+            "C": "FFD43B",
+            "D": "3E2723"
           }
         },
         {
@@ -696,7 +760,7 @@
             "..ww......",
             "..ww......",
             "..wwwwww..",
-            ".wwwwwwwww",
+            ".wwAAAAwww",
             "..wwwwwww.",
             "....o.o...",
             "...oo.oo.."
@@ -705,6 +769,9 @@
             "k": "212529",
             "o": "F59F00",
             "w": "ADB5BD"
+          },
+          "backdrop": {
+            "A": "ADB5BD"
           }
         },
         {
@@ -714,11 +781,11 @@
             "...hhhh...",
             "..h....h..",
             "..h....h..",
-            ".aoorryyg.",
-            "bbbbbbbbbb",
-            "bwbwbwbwbw",
-            "bbbbbbbbbb",
-            ".bwbwbwbw.",
+            ".aAorryBg.",
+            "bCbbCCbCCb",
+            "bwCwbwCDCw",
+            "bbCCbbCbbb",
+            ".bwCwCDbw.",
             ".bbbbbbbb.",
             ".........."
           ],
@@ -731,6 +798,12 @@
             "g": "74B816",
             "b": "A0522D",
             "w": "D9A066"
+          },
+          "backdrop": {
+            "A": "F76707",
+            "B": "FCC419",
+            "C": "A0522D",
+            "D": "D9A066"
           }
         },
         {
@@ -739,19 +812,22 @@
           "art": [
             "...r..r...",
             ".rrrrrrrr.",
-            "rrrrbrrrrr",
-            "rrkrbrrkrr",
-            "rr.rbrr.rr",
-            "rr.rbrr.rr",
-            "rr.rbrr.rr",
-            "rr.rrrr.rr",
-            ".rrkrrkr..",
+            "rrAABAAArr",
+            "rrkrBArkrr",
+            "rr.rBAr.rr",
+            "rr.rBAr.rr",
+            "rr.rBAr.rr",
+            "rr.rAAr.rr",
+            ".rrkAAkr..",
             "..rrrrrr.."
           ],
           "ink": {
             "r": "C92A2A",
-            "b": "F8F9FA",
             "k": "212529"
+          },
+          "backdrop": {
+            "A": "C92A2A",
+            "B": "F8F9FA"
           }
         }
       ]
