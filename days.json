@@ -2,6 +2,394 @@
   "format": 1,
   "days": [
     {
+      "date": "2026-11-01",
+      "theme": "Day of the Dead begins",
+      "puzzles": {
+        "5": {
+          "name": "Marigold",
+          "caption": "A bright orange marigold.",
+          "art": [
+            ".ooo.",
+            "ooyoo",
+            "ooooo",
+            ".ooo.",
+            "..g.."
+          ],
+          "ink": {
+            "o": "F76707",
+            "y": "FCC419",
+            "g": "2F9E44"
+          }
+        },
+        "10": {
+          "name": "Sugar Skull",
+          "caption": "A sugar skull decorated with flowers.",
+          "art": [
+            "..wwwwww..",
+            ".wwwwwwww.",
+            "wwwwwwwwww",
+            "wbbwwwwbbw",
+            "wbbwwwwbbw",
+            "wwwwnnwwww",
+            ".wwwwwwww.",
+            "..wpwpww..",
+            "..wwwwww..",
+            "...wwww..."
+          ],
+          "ink": {
+            "w": "F3D9FA",
+            "b": "4DABF7",
+            "n": "E64980",
+            "p": "9775FA"
+          }
+        }
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "theme": "Day of the Dead",
+      "puzzles": {
+        "5": {
+          "name": "Maraca",
+          "caption": "A painted maraca, ready to shake.",
+          "art": [
+            ".mmm.",
+            "mnmnm",
+            "mmmmm",
+            ".mmm.",
+            "..h.."
+          ],
+          "ink": {
+            "m": "E64980",
+            "n": "FCC419",
+            "h": "8D6E63"
+          }
+        },
+        "10": {
+          "name": "Papel Picado",
+          "caption": "Bright paper banners strung up to celebrate.",
+          "art": [
+            "ssssssssss",
+            "pppp..gggg",
+            "pqqp..ghhg",
+            "pqqp..ghhg",
+            "pppp..gggg",
+            "pqpq..ghgh",
+            "pppp..gggg",
+            "p.p...g.g.",
+            "..........",
+            ".........."
+          ],
+          "ink": {
+            "s": "868E96",
+            "p": "E64980",
+            "q": "FFC9E0",
+            "g": "40C057",
+            "h": "C3FAE8"
+          }
+        }
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "theme": "National Sandwich Day",
+      "puzzles": {
+        "5": {
+          "name": "Sandwich",
+          "caption": "A stacked sandwich with lettuce and tomato.",
+          "art": [
+            ".bbb.",
+            "bbbbb",
+            "lllll",
+            "ttttt",
+            "bbbbb"
+          ],
+          "ink": {
+            "b": "E9B872",
+            "l": "74B816",
+            "t": "E03131"
+          }
+        },
+        "10": {
+          "name": "Lunchbox",
+          "caption": "A metal lunchbox with a latch.",
+          "art": [
+            "...hhhh...",
+            "...h..h...",
+            "bbbbbbbbbb",
+            "bbbbbbbbbb",
+            "bbbbccbbbb",
+            "bbbbbbbbbb",
+            "bbbbbbbbbb",
+            "bbbbbbbbbb",
+            "..........",
+            ".........."
+          ],
+          "ink": {
+            "h": "495057",
+            "b": "1971C2",
+            "c": "FCC419"
+          }
+        }
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "theme": "King Tut's tomb discovered (1922)",
+      "puzzles": {
+        "5": {
+          "name": "Pyramid",
+          "caption": "A pyramid rising from the desert sand.",
+          "art": [
+            ".....",
+            "..p..",
+            ".ppp.",
+            "ppppp",
+            "sssss"
+          ],
+          "ink": {
+            "p": "E9B000",
+            "s": "F3D9A4"
+          }
+        },
+        "10": {
+          "name": "Camel",
+          "caption": "A two-humped camel crossing the sand.",
+          "art": [
+            "..........",
+            "..cc.cc...",
+            ".ccccccc.h",
+            "cccccccchh",
+            "ccccccccc.",
+            ".cccccccc.",
+            ".c.c..c.c.",
+            ".c.c..c.c.",
+            ".c.c..c.c.",
+            "ssssssssss"
+          ],
+          "ink": {
+            "c": "C08552",
+            "h": "A0522D",
+            "s": "F3D9A4"
+          }
+        }
+      }
+    },
+    {
+      "date": "2026-11-05",
+      "theme": "Guy Fawkes Night",
+      "puzzles": {
+        "5": {
+          "name": "Match",
+          "caption": "A lit match.",
+          "art": [
+            "..f..",
+            ".fyf.",
+            ".hhh.",
+            "..s..",
+            "..s.."
+          ],
+          "ink": {
+            "f": "F76707",
+            "y": "FCC419",
+            "h": "C92A2A",
+            "s": "E9B872"
+          }
+        },
+        "10": {
+          "name": "Castle",
+          "caption": "A stone castle with a big wooden gate.",
+          "art": [
+            "c.c.cc.c.c",
+            "cccccccccc",
+            "cccccccccc",
+            "ccwccccwcc",
+            "cccccccccc",
+            "ccccddcccc",
+            "cccddddccc",
+            "cccddddccc",
+            "cccddddccc",
+            "gggggggggg"
+          ],
+          "ink": {
+            "c": "868E96",
+            "w": "FFD43B",
+            "d": "7F5539",
+            "g": "74B816"
+          }
+        }
+      }
+    },
+    {
+      "date": "2026-11-07",
+      "theme": "Marie Curie born (1867)",
+      "puzzles": {
+        "5": {
+          "name": "Chocolate Bar",
+          "caption": "A chocolate bar, partly unwrapped.",
+          "art": [
+            "ccccc",
+            "cdcdc",
+            "ccccc",
+            "cdcdc",
+            "wwwww"
+          ],
+          "ink": {
+            "c": "7F5539",
+            "d": "5C3D2E",
+            "w": "C92A2A"
+          }
+        },
+        "10": {
+          "name": "Microscope",
+          "caption": "A microscope, ready for a closer look.",
+          "art": [
+            ".....tt...",
+            ".....tt...",
+            "....ttt.a.",
+            "....tt..a.",
+            "...ppppaa.",
+            "......aa..",
+            "..aaaaa...",
+            "...aa.....",
+            "..aaaa....",
+            ".aaaaaaa.."
+          ],
+          "ink": {
+            "t": "495057",
+            "a": "868E96",
+            "p": "74C0FC"
+          }
+        }
+      }
+    },
+    {
+      "date": "2026-11-08",
+      "theme": "X-rays discovered (1895)",
+      "puzzles": {
+        "5": {
+          "name": "Bone",
+          "caption": "A bone, the first thing X-rays showed.",
+          "art": [
+            ".....",
+            "b...b",
+            "bbbbb",
+            "b...b",
+            "....."
+          ],
+          "ink": {
+            "b": "E9D8A6"
+          }
+        },
+        "10": {
+          "name": "Lightbulb",
+          "caption": "A glowing lightbulb: a bright idea.",
+          "art": [
+            "...yyyy...",
+            "..yyyyyy..",
+            ".yyyyyyyy.",
+            ".yyywwyyy.",
+            ".yyyyyyyy.",
+            "..yyyyyy..",
+            "...yyyy...",
+            "...gggg...",
+            "...gggg...",
+            "....gg...."
+          ],
+          "ink": {
+            "y": "FCC419",
+            "w": "FFF3BF",
+            "g": "868E96"
+          }
+        }
+      }
+    },
+    {
+      "date": "2026-11-09",
+      "theme": "Berlin Wall fell (1989)",
+      "puzzles": {
+        "5": {
+          "name": "Hammer",
+          "caption": "A hammer for knocking down walls.",
+          "art": [
+            "hhhhh",
+            "hhhhh",
+            "..s..",
+            "..s..",
+            "..s.."
+          ],
+          "ink": {
+            "h": "495057",
+            "s": "A0522D"
+          }
+        },
+        "10": {
+          "name": "Brick Wall",
+          "caption": "A brick wall with a piece knocked out.",
+          "art": [
+            "..b..b....",
+            ".bbb.bb...",
+            "bbbbbbbb.b",
+            "bbbbbbbbbb",
+            "bcbbbcbbbc",
+            "bbbbbbbbbb",
+            "bbcbbbcbbb",
+            "bbbbbbbbbb",
+            "bcbbbcbbbc",
+            "bbbbbbbbbb"
+          ],
+          "ink": {
+            "b": "C92A2A",
+            "c": "F3D9A4"
+          }
+        }
+      }
+    },
+    {
+      "date": "2026-11-10",
+      "theme": "A soccer-manager game launches",
+      "puzzles": {
+        "5": {
+          "name": "Soccer Ball",
+          "caption": "A soccer ball, ready for kickoff.",
+          "art": [
+            ".www.",
+            "wkwkw",
+            "wwkww",
+            "wkwkw",
+            ".www."
+          ],
+          "ink": {
+            "w": "DEE2E6",
+            "k": "212529"
+          }
+        },
+        "10": {
+          "name": "Tactics Board",
+          "caption": "A tactics board with the game plan drawn up.",
+          "art": [
+            "...cccc...",
+            "bbbbccbbbb",
+            "bggggggggb",
+            "bgxgggggob",
+            "bggggxgggb",
+            "bgggogggxb",
+            "bgxggggggb",
+            "bggggoxggb",
+            "bggggggggb",
+            "bbbbbbbbbb"
+          ],
+          "ink": {
+            "c": "868E96",
+            "b": "8D6E63",
+            "g": "2F9E44",
+            "x": "F8F9FA",
+            "o": "FCC419"
+          }
+        }
+      }
+    },
+    {
       "date": "2026-11-11",
       "theme": "Veterans Day",
       "puzzles": {
@@ -106,25 +494,23 @@
           }
         },
         "10": {
-          "name": "Black Cat",
-          "caption": "A black cat sitting tall, yellow eyes and a curled tail.",
+          "name": "Four-Leaf Clover",
+          "caption": "A lucky four-leaf clover.",
           "art": [
-            ".k...k....",
-            ".kk.kk....",
-            ".kkkkk....",
-            ".kykyk....",
-            ".kkkkk....",
-            "..kkk.....",
-            ".kkkkk....",
-            "kkkkkkk.k.",
-            "kkkkkkk..k",
-            "kkkkkkkkkk"
+            ".gg..gg...",
+            "gggggggg..",
+            "gggggggg..",
+            ".gggggg...",
+            "gggggggg..",
+            "gggggggg..",
+            ".gg..gg...",
+            "....s.....",
+            "....s.....",
+            "....s....."
           ],
           "ink": {
-            "k": "212529"
-          },
-          "backdrop": {
-            "y": "FCC419"
+            "g": "2F9E44",
+            "s": "74B816"
           }
         }
       }
@@ -176,17 +562,19 @@
       "theme": "America Recycles Day",
       "puzzles": {
         "5": {
-          "name": "Leaf",
-          "caption": "A green leaf on its stem.",
+          "name": "Water Bottle",
+          "caption": "A reusable water bottle.",
           "art": [
-            "..lll",
-            ".llll",
-            "lllll",
-            "llll.",
-            "l...."
+            "..c..",
+            ".bbb.",
+            ".blb.",
+            ".bbb.",
+            ".bbb."
           ],
           "ink": {
-            "l": "40C057"
+            "c": "495057",
+            "b": "4DABF7",
+            "l": "D0EBFF"
           }
         },
         "10": {
@@ -259,18 +647,20 @@
       "theme": "National Take a Hike Day; Vice Week",
       "puzzles": {
         "5": {
-          "name": "Boot",
-          "caption": "A sturdy hiking boot.",
+          "name": "Compass",
+          "caption": "A compass pointing the way.",
           "art": [
-            "bbb..",
-            "bbb..",
-            "bbbb.",
-            "bbbbb",
-            "sssss"
+            ".ccc.",
+            "cccrc",
+            "ccncc",
+            "cwccc",
+            ".ccc."
           ],
           "ink": {
-            "b": "A0522D",
-            "s": "343A40"
+            "c": "E9B000",
+            "r": "E03131",
+            "n": "495057",
+            "w": "F8F9FA"
           }
         },
         "10": {
@@ -347,17 +737,18 @@
       "theme": "Vice Week: launch day",
       "puzzles": {
         "5": {
-          "name": "Wanted",
-          "caption": "One wanted star. It only goes up from here.",
+          "name": "Siren",
+          "caption": "A flashing police siren. Someone's in trouble.",
           "art": [
-            "..y..",
-            ".yyy.",
-            "yyyyy",
-            ".yyy.",
-            ".y.y."
+            ".....",
+            ".rrr.",
+            "rrrrr",
+            "bbbbb",
+            "bbbbb"
           ],
           "ink": {
-            "y": "FCC419"
+            "r": "E03131",
+            "b": "343A40"
           }
         },
         "10": {
@@ -409,26 +800,24 @@
           }
         },
         "10": {
-          "name": "Sports Car",
-          "caption": "A low red sports car, built for speed.",
+          "name": "Motorcycle",
+          "caption": "A motorcycle, built for the open road.",
           "art": [
             "..........",
-            "..........",
-            "...rrrr...",
-            "..rrwwrrr.",
-            ".rrrrrrrrr",
+            "......hh..",
+            "....rrrh..",
+            ".rrrrrrr..",
             "rrrrrrrrrr",
-            "rrrrrrrrrr",
-            "rkkrrrrkkr",
+            ".kk....kk.",
+            "kkkk..kkkk",
+            "kkkk..kkkk",
             ".kk....kk.",
             ".........."
           ],
           "ink": {
+            "h": "868E96",
             "r": "E03131",
             "k": "343A40"
-          },
-          "backdrop": {
-            "w": "A5D8FF"
           }
         }
       }
@@ -614,18 +1003,17 @@
       "theme": "Thanksgiving Eve; a neon-noir premiere",
       "puzzles": {
         "5": {
-          "name": "Oven Mitt",
-          "caption": "An oven mitt, ready for the pie.",
+          "name": "Dinner Roll",
+          "caption": "A warm dinner roll.",
           "art": [
-            ".mm..",
-            "mmmm.",
-            "mmmmm",
-            "mmmmm",
-            ".ccc."
+            ".....",
+            ".rrr.",
+            "rrrrr",
+            "rrrrr",
+            "....."
           ],
           "ink": {
-            "m": "E03131",
-            "c": "ADB5BD"
+            "r": "D9A066"
           }
         },
         "10": {
@@ -804,25 +1192,26 @@
           }
         },
         "10": {
-          "name": "Joystick",
-          "caption": "An arcade joystick with a big red button.",
+          "name": "Arcade Cabinet",
+          "caption": "An arcade cabinet waiting for quarters.",
           "art": [
-            "...rr.....",
-            "..rrrr....",
-            "..rrrr....",
-            "...ss.....",
-            "...ss..bb.",
-            "...ss..bb.",
-            "kkkkkkkkkk",
-            "kkkkkkkkkk",
-            "kkkkkkkkkk",
-            ".kkkkkkkk."
+            ".cccccccc.",
+            ".cmmmmmmc.",
+            ".cccccccc.",
+            ".cssssssc.",
+            ".cssssssc.",
+            ".cccccccc.",
+            "ccbccrcccc",
+            ".cccccccc.",
+            ".cccccccc.",
+            ".cccccccc."
           ],
           "ink": {
-            "r": "E03131",
-            "s": "868E96",
-            "b": "FCC419",
-            "k": "343A40"
+            "c": "5F3DC4",
+            "m": "FCC419",
+            "s": "212529",
+            "b": "E03131",
+            "r": "4DABF7"
           }
         }
       }
@@ -934,26 +1323,23 @@
           }
         },
         "10": {
-          "name": "Royal Crown",
-          "caption": "A jeweled royal crown.",
+          "name": "Throne",
+          "caption": "A velvet throne fit for an emperor.",
           "art": [
-            "....c.....",
-            "...ccc....",
-            "c...c...c.",
-            "cc.ccc.cc.",
-            "ccccccccc.",
-            "crcgcrcgc.",
-            "ccccccccc.",
-            "ccccccccc.",
-            "..........",
-            ".........."
+            "..g....g..",
+            "..rrrrrr..",
+            "..rrrrrr..",
+            "..rrrrrr..",
+            "..rrrrrr..",
+            ".gggggggg.",
+            ".gggggggg.",
+            ".g......g.",
+            ".g......g.",
+            ".gg....gg."
           ],
           "ink": {
-            "c": "FAB005"
-          },
-          "backdrop": {
-            "r": "E03131",
-            "g": "2F9E44"
+            "g": "E9B000",
+            "r": "862E9C"
           }
         }
       }
@@ -1155,24 +1541,23 @@
           }
         },
         "10": {
-          "name": "Star Award",
-          "caption": "A golden star award on its stand.",
+          "name": "Spotlight",
+          "caption": "A stage spotlight, warmed up for the big night.",
           "art": [
-            "....s.....",
-            "...sss....",
-            "sssssssss.",
-            ".sssssss..",
-            "..sssss...",
-            ".sss.sss..",
-            "....p.....",
-            "....p.....",
-            "..bbbbb...",
-            ".bbbbbbb.."
+            "..kkkkkk..",
+            ".kyyyyyyk.",
+            ".kyyyyyyk.",
+            ".kyyyyyyk.",
+            "..kkkkkk..",
+            "....kk....",
+            "...kkkk...",
+            "...k..k...",
+            "..k....k..",
+            ".kk....kk."
           ],
           "ink": {
-            "s": "FAB005",
-            "p": "E9B000",
-            "b": "495057"
+            "k": "343A40",
+            "y": "FFF3BF"
           }
         }
       }
@@ -1182,18 +1567,17 @@
       "theme": "New moon",
       "puzzles": {
         "5": {
-          "name": "New Moon",
-          "caption": "A new moon: a dark disk with a faint glowing rim.",
+          "name": "Bat",
+          "caption": "A bat out under the new moon.",
           "art": [
-            ".mmm.",
-            "mdddm",
-            "mdddm",
-            "mdddm",
-            ".mmm."
+            ".....",
+            "b...b",
+            "bbbbb",
+            "bbbbb",
+            "b.b.b"
           ],
           "ink": {
-            "m": "748FFC",
-            "d": "364FC7"
+            "b": "343A40"
           }
         },
         "10": {
@@ -1563,17 +1947,18 @@
       "theme": "The first powered flight (1903)",
       "puzzles": {
         "5": {
-          "name": "Cloud",
-          "caption": "A puffy cloud.",
+          "name": "Kite",
+          "caption": "A kite flying on the breeze.",
           "art": [
-            "..cc.",
-            ".cccc",
-            "ccccc",
-            ".....",
-            "....."
+            "..k..",
+            ".kkk.",
+            "kkkkk",
+            ".kkk.",
+            "..t.."
           ],
           "ink": {
-            "c": "A5D8FF"
+            "k": "E03131",
+            "t": "FCC419"
           }
         },
         "10": {
@@ -1689,17 +2074,18 @@
       "theme": "Go Caroling Day",
       "puzzles": {
         "5": {
-          "name": "Music Notes",
-          "caption": "Two notes joined together, ready to sing.",
+          "name": "Songbook",
+          "caption": "An open songbook for caroling.",
           "art": [
-            ".nnnn",
-            ".n..n",
-            ".n..n",
-            "nn.nn",
-            "nn.nn"
+            ".....",
+            "pp.pp",
+            "pp.pp",
+            "pp.pp",
+            "bbbbb"
           ],
           "ink": {
-            "n": "5F3DC4"
+            "p": "F3E5C0",
+            "b": "C92A2A"
           }
         },
         "10": {
@@ -1772,20 +2158,18 @@
       "theme": "Ursid meteor shower; cocoa day",
       "puzzles": {
         "5": {
-          "name": "Mug",
-          "caption": "A warm mug, steam curling up from the top.",
+          "name": "Marshmallow",
+          "caption": "A marshmallow toasting on a stick.",
           "art": [
-            ".w.w.",
-            "mmmm.",
-            "mmmmm",
-            "mmmm.",
-            ".mm.."
+            ".mm..",
+            ".mm..",
+            "..s..",
+            "..s..",
+            "..s.."
           ],
           "ink": {
-            "m": "8D5524"
-          },
-          "backdrop": {
-            "w": "DEE2E6"
+            "m": "F3D9A4",
+            "s": "8D6E63"
           }
         },
         "10": {
@@ -1833,23 +2217,22 @@
           }
         },
         "10": {
-          "name": "Supermoon",
-          "caption": "A big, bright full moon with its craters.",
+          "name": "Howling Wolf",
+          "caption": "A wolf howling at the cold full moon.",
           "art": [
-            "...mmmm...",
-            ".mmmmmmmm.",
-            ".mmcmmmmm.",
-            "mmcccmmmmm",
-            "mmmcmmmcmm",
-            "mmmmmmccmm",
-            "mcmmmmmmmm",
-            ".mmmmcmmm.",
-            ".mmmmmmmm.",
-            "...mmmm..."
+            ".....w....",
+            ".....ww...",
+            "....wwww..",
+            "....wwwww.",
+            "...wwww...",
+            "..wwwww...",
+            ".wwwwww...",
+            "wwwwwww...",
+            "wwwwwwww..",
+            "wwwwwwwww."
           ],
           "ink": {
-            "m": "FFF3BF",
-            "c": "E9D8A6"
+            "w": "495057"
           }
         }
       }
@@ -2093,25 +2476,23 @@
           }
         },
         "10": {
-          "name": "Alarm Clock",
-          "caption": "An alarm clock with two bells on top.",
+          "name": "Metronome",
+          "caption": "A metronome, ticking off the time.",
           "art": [
-            ".bb....bb.",
-            "bbbccccbbb",
-            ".ccwwwwcc.",
-            ".cwwwkwwc.",
-            "cwwwwkwwwc",
-            "cwwwwkkkwc",
-            "cwwwwwwwwc",
-            ".cwwwwwwc.",
-            ".cccccccc.",
-            ".c......c."
+            "....tt....",
+            "....tt....",
+            "...tttt...",
+            "...tptt...",
+            "..ttpttt..",
+            "..ttpttt..",
+            ".ttpttttt.",
+            ".tttttttt.",
+            "tttttttttt",
+            "tttttttttt"
           ],
           "ink": {
-            "b": "E03131",
-            "c": "C92A2A",
-            "w": "FFF9DB",
-            "k": "212529"
+            "t": "8D5524",
+            "p": "FCC419"
           }
         }
       }

@@ -1,0 +1,760 @@
+{
+  "format": 1,
+  "collections": [
+    {
+      "id": "2026-11",
+      "title": "November Collection",
+      "subtitle": "Harvest, hearth, and falling leaves",
+      "plus": true,
+      "puzzles": [
+        {
+          "name": "Maple Leaf",
+          "caption": "A red maple leaf on its stem.",
+          "art": [
+            "..r..",
+            "r.r.r",
+            "rrrrr",
+            ".rrr.",
+            "..b.."
+          ],
+          "ink": {
+            "r": "D9480F",
+            "b": "6D4C41"
+          }
+        },
+        {
+          "name": "Acorn",
+          "caption": "An acorn in its little cap.",
+          "art": [
+            ".ccc.",
+            "ccccc",
+            ".aaa.",
+            ".aaa.",
+            "..a.."
+          ],
+          "ink": {
+            "c": "7F5539",
+            "a": "C08552"
+          }
+        },
+        {
+          "name": "Pinecone",
+          "caption": "A pinecone, scales and all.",
+          "art": [
+            "..s..",
+            ".pqp.",
+            "pqpqp",
+            ".pqp.",
+            "..p.."
+          ],
+          "ink": {
+            "s": "6D4C41",
+            "p": "8D5524",
+            "q": "A0522D"
+          }
+        },
+        {
+          "name": "Cranberry",
+          "caption": "A plump cranberry with a leaf.",
+          "art": [
+            "...g.",
+            ".rrr.",
+            "rrrrr",
+            "rrrrr",
+            ".rrr."
+          ],
+          "ink": {
+            "g": "2F9E44",
+            "r": "C92A2A"
+          }
+        },
+        {
+          "name": "Pear",
+          "caption": "A ripe pear on its stem.",
+          "art": [
+            "..s..",
+            "..p..",
+            ".ppp.",
+            "ppppp",
+            ".ppp."
+          ],
+          "ink": {
+            "s": "6D4C41",
+            "p": "A9C23F"
+          }
+        },
+        {
+          "name": "Corn",
+          "caption": "An ear of corn in its husk.",
+          "art": [
+            "..y..",
+            ".yyy.",
+            "gyyyg",
+            "gyyyg",
+            ".ggg."
+          ],
+          "ink": {
+            "y": "FCC419",
+            "g": "74B816"
+          }
+        },
+        {
+          "name": "Mitten",
+          "caption": "A cozy knit mitten.",
+          "art": [
+            ".mmm.",
+            ".mmm.",
+            "mmmm.",
+            "mmmm.",
+            ".ccc."
+          ],
+          "ink": {
+            "m": "E64980",
+            "c": "ADB5BD"
+          }
+        },
+        {
+          "name": "Scarf",
+          "caption": "A striped scarf with fringe.",
+          "art": [
+            "sssss",
+            "stsst",
+            "...ss",
+            "...ss",
+            "...ff"
+          ],
+          "ink": {
+            "s": "1971C2",
+            "t": "F8F9FA",
+            "f": "74C0FC"
+          }
+        },
+        {
+          "name": "Rolling Pin",
+          "caption": "A rolling pin for holiday baking.",
+          "art": [
+            ".....",
+            ".rrr.",
+            "hrrrh",
+            ".rrr.",
+            "....."
+          ],
+          "ink": {
+            "r": "D9A066",
+            "h": "8D5524"
+          }
+        },
+        {
+          "name": "Honey Jar",
+          "caption": "A jar of golden honey.",
+          "art": [
+            ".lll.",
+            ".jjj.",
+            "jjjjj",
+            "jjjjj",
+            ".jjj."
+          ],
+          "ink": {
+            "l": "8D6E63",
+            "j": "F59F00"
+          }
+        },
+        {
+          "name": "Chestnut",
+          "caption": "A shiny roasted chestnut.",
+          "art": [
+            "..s..",
+            ".ccc.",
+            "ccccc",
+            "ccccc",
+            ".lll."
+          ],
+          "ink": {
+            "s": "5C3D2E",
+            "c": "8D5524",
+            "l": "D9A066"
+          }
+        },
+        {
+          "name": "Quilt",
+          "caption": "A patchwork quilt with a fringe.",
+          "art": [
+            "qpqpq",
+            "pqpqp",
+            "qpqpq",
+            "pqpqp",
+            "f.f.f"
+          ],
+          "ink": {
+            "q": "C92A2A",
+            "p": "F3D9A4",
+            "f": "8D6E63"
+          }
+        },
+        {
+          "name": "Hay Bale",
+          "caption": "A hay bale tied with twine.",
+          "art": [
+            ".....",
+            "hhhhh",
+            "ttttt",
+            "hhhhh",
+            "hhhhh"
+          ],
+          "ink": {
+            "h": "E9C46A",
+            "t": "B08968"
+          }
+        },
+        {
+          "name": "Gravy Boat",
+          "caption": "A gravy boat for the big dinner.",
+          "art": [
+            ".....",
+            "gg...",
+            "ggggg",
+            ".gggg",
+            "....."
+          ],
+          "ink": {
+            "g": "B08968"
+          }
+        },
+        {
+          "name": "Wheat",
+          "caption": "A stalk of golden wheat.",
+          "art": [
+            "w.w.w",
+            ".www.",
+            "..w..",
+            "..w..",
+            "..w.."
+          ],
+          "ink": {
+            "w": "E9B000"
+          }
+        },
+        {
+          "name": "Beanie",
+          "caption": "A knit beanie with a pom-pom.",
+          "art": [
+            "..p..",
+            ".bbb.",
+            "bbbbb",
+            "bbbbb",
+            "ccccc"
+          ],
+          "ink": {
+            "p": "C92A2A",
+            "b": "2F9E44",
+            "c": "1B5E20"
+          }
+        },
+        {
+          "name": "Cider Jug",
+          "caption": "A jug of fresh apple cider.",
+          "art": [
+            ".hh..",
+            ".ccc.",
+            "ccccc",
+            "ccccc",
+            ".ccc."
+          ],
+          "ink": {
+            "h": "868E96",
+            "c": "C2410C"
+          }
+        },
+        {
+          "name": "Campfire",
+          "caption": "A crackling campfire.",
+          "art": [
+            "..f..",
+            ".ff..",
+            ".fyf.",
+            "fffff",
+            "lllll"
+          ],
+          "ink": {
+            "f": "F76707",
+            "y": "FCC419",
+            "l": "6D4C41"
+          }
+        },
+        {
+          "name": "Candy Corn",
+          "caption": "A piece of candy corn.",
+          "art": [
+            "..w..",
+            ".yyy.",
+            ".yyy.",
+            "ooooo",
+            "ooooo"
+          ],
+          "ink": {
+            "w": "FFF3BF",
+            "y": "FCC419",
+            "o": "F76707"
+          }
+        },
+        {
+          "name": "Oak Leaf",
+          "caption": "A golden oak leaf.",
+          "art": [
+            ".l.l.",
+            "lllll",
+            ".lll.",
+            "lllll",
+            "..s.."
+          ],
+          "ink": {
+            "l": "E8A33D",
+            "s": "6D4C41"
+          }
+        },
+        {
+          "name": "Turkey",
+          "caption": "A proud turkey with its tail fanned out.",
+          "art": [
+            "..rroorr..",
+            ".rooyyoor.",
+            "rooybbyoor",
+            "roybkbbyor",
+            "roybbbbyor",
+            ".oybbbbyo.",
+            "..bbbbbb..",
+            "...bbbb...",
+            "...l..l...",
+            "..ll..ll.."
+          ],
+          "ink": {
+            "r": "C92A2A",
+            "o": "F76707",
+            "y": "FCC419",
+            "b": "8D5524",
+            "k": "212529",
+            "l": "F59F00"
+          }
+        },
+        {
+          "name": "Cornucopia",
+          "caption": "A horn of plenty spilling over with harvest.",
+          "art": [
+            "..........",
+            "bb........",
+            "bbb.......",
+            ".bbbbrrgg.",
+            "..bbbrrggo",
+            "..bbbbyyoo",
+            "...bbbyyo.",
+            "....bbbb..",
+            "..........",
+            ".........."
+          ],
+          "ink": {
+            "b": "B08968",
+            "r": "C92A2A",
+            "g": "74B816",
+            "y": "FCC419",
+            "o": "F76707"
+          }
+        },
+        {
+          "name": "Scarecrow",
+          "caption": "A friendly scarecrow keeping watch.",
+          "art": [
+            "...hhhh...",
+            ".hhhhhhhh.",
+            "...ffff...",
+            "...kffk...",
+            "ssssssssss",
+            "...ssss...",
+            "...ssss...",
+            "...pppp...",
+            "....ww....",
+            "....ww...."
+          ],
+          "ink": {
+            "h": "8D5524",
+            "f": "F3D9A4",
+            "k": "212529",
+            "s": "C92A2A",
+            "p": "1971C2",
+            "w": "6D4C41"
+          }
+        },
+        {
+          "name": "Squirrel",
+          "caption": "A squirrel holding its acorn.",
+          "art": [
+            "..tt......",
+            ".tttt.....",
+            "tttttt.ss.",
+            "tttttsssks",
+            "tttttsssss",
+            ".tttsssss.",
+            "..ttssss..",
+            "...sssss..",
+            "...ssssa..",
+            "..ss..ss.."
+          ],
+          "ink": {
+            "t": "C2410C",
+            "s": "D9480F",
+            "k": "212529",
+            "a": "7F5539"
+          }
+        },
+        {
+          "name": "Fox",
+          "caption": "A clever fox's face.",
+          "art": [
+            "o........o",
+            "oo......oo",
+            "ooo....ooo",
+            "oooooooooo",
+            "okoooookoo",
+            "oooooooooo",
+            "wwoooooww.",
+            ".wwwoowww.",
+            "..wwwkww..",
+            "...wwww..."
+          ],
+          "ink": {
+            "o": "F76707",
+            "k": "212529",
+            "w": "F8F0E3"
+          }
+        },
+        {
+          "name": "Deer",
+          "caption": "A deer with velvet antlers.",
+          "art": [
+            "a.aa..aa.a",
+            "aaa....aaa",
+            "..aa..aa..",
+            "..dddddd..",
+            "ddkddddkdd",
+            ".dddddddd.",
+            "..dddddd..",
+            "...dddd...",
+            "...dnnd...",
+            "....dd...."
+          ],
+          "ink": {
+            "a": "A0522D",
+            "d": "C08552",
+            "k": "212529",
+            "n": "5C3D2E"
+          }
+        },
+        {
+          "name": "Hedgehog",
+          "caption": "A hedgehog out for an autumn walk.",
+          "art": [
+            "..s.s.s...",
+            ".sssssss..",
+            "sssssssss.",
+            "sssssssfff",
+            "sssssssfkf",
+            "ssssssfffn",
+            ".ssssssff.",
+            "..ll..ll..",
+            "..........",
+            ".........."
+          ],
+          "ink": {
+            "s": "6D4C41",
+            "f": "E9C9A0",
+            "k": "212529",
+            "n": "212529",
+            "l": "8D6E63"
+          }
+        },
+        {
+          "name": "Barn",
+          "caption": "A red barn with white trim.",
+          "art": [
+            "....rr....",
+            "...rrrr...",
+            "..rrrrrr..",
+            ".rrrrrrrr.",
+            "rrrrwwrrrr",
+            "rrrrwwrrrr",
+            "rrwwwwwwrr",
+            "rrwddddwrr",
+            "rrwddddwrr",
+            "rrwddddwrr"
+          ],
+          "ink": {
+            "r": "C92A2A",
+            "w": "DEE2E6",
+            "d": "7F5539"
+          }
+        },
+        {
+          "name": "Rake",
+          "caption": "A leaf rake, ready for the yard.",
+          "art": [
+            "....h.....",
+            "....h.....",
+            "....h.....",
+            "....h.....",
+            "....h.....",
+            "....h.....",
+            "tttttttttt",
+            "t.t.t.t.t.",
+            "t.t.t.t.t.",
+            "t.t.t.t.t."
+          ],
+          "ink": {
+            "h": "A0522D",
+            "t": "868E96"
+          }
+        },
+        {
+          "name": "Harvest Wagon",
+          "caption": "A wagon loaded with pumpkins.",
+          "art": [
+            "..........",
+            "..oo..oo..",
+            ".oooooooo.",
+            "wwwwwwwwww",
+            "wwwwwwwwww",
+            ".wwwwwwww.",
+            ".kk....kk.",
+            ".kk....kk.",
+            "..........",
+            ".........."
+          ],
+          "ink": {
+            "o": "F76707",
+            "w": "C92A2A",
+            "k": "343A40"
+          }
+        },
+        {
+          "name": "Leaf Pile",
+          "caption": "A big pile of fallen leaves, just raked.",
+          "art": [
+            "..........",
+            "..........",
+            "....ro....",
+            "...yrgo...",
+            "..orygro..",
+            ".ryogryoy.",
+            "oyrgoyrgoy",
+            "roygryoygr",
+            "..........",
+            ".........."
+          ],
+          "ink": {
+            "r": "C92A2A",
+            "o": "F76707",
+            "y": "FCC419",
+            "g": "A9C23F"
+          }
+        },
+        {
+          "name": "Soup Pot",
+          "caption": "A pot of soup simmering on the stove.",
+          "art": [
+            "...s..s...",
+            "..s..s....",
+            ".llllllll.",
+            "pppppppppp",
+            ".pppppppp.",
+            ".pppppppp.",
+            ".pppppppp.",
+            "..pppppp..",
+            "..........",
+            ".........."
+          ],
+          "ink": {
+            "l": "868E96",
+            "p": "495057"
+          },
+          "backdrop": {
+            "s": "CED4DA"
+          }
+        },
+        {
+          "name": "Rain Cloud",
+          "caption": "A gray cloud with rain coming down.",
+          "art": [
+            "....cc....",
+            "..ccccc...",
+            ".cccccccc.",
+            "cccccccccc",
+            ".cccccccc.",
+            "..........",
+            ".d..d..d..",
+            ".d..d..d..",
+            ".d..d..d..",
+            ".........."
+          ],
+          "ink": {
+            "c": "868E96",
+            "d": "4DABF7"
+          }
+        },
+        {
+          "name": "Sunflower",
+          "caption": "A tall sunflower in full bloom.",
+          "art": [
+            "...yyyy...",
+            ".yyyyyyyy.",
+            ".yybbbbyy.",
+            "yybbbbbbyy",
+            "yybbbbbbyy",
+            ".yybbbbyy.",
+            ".yyyyyyyy.",
+            "...yygy...",
+            "....g.....",
+            "...gg....."
+          ],
+          "ink": {
+            "y": "FCC419",
+            "b": "6D4C41",
+            "g": "2F9E44"
+          }
+        },
+        {
+          "name": "Maple Tree",
+          "caption": "A maple tree at the peak of fall color.",
+          "art": [
+            "...rooy...",
+            ".ryyorroo.",
+            "roorryyorr",
+            "ryyoorrooy",
+            ".roryyoor.",
+            "..ooyrro..",
+            "....tt....",
+            "....tt....",
+            "...tttt...",
+            "gggggggggg"
+          ],
+          "ink": {
+            "r": "C92A2A",
+            "o": "F76707",
+            "y": "FCC419",
+            "t": "6D4C41",
+            "g": "74B816"
+          }
+        },
+        {
+          "name": "Pilgrim Hat",
+          "caption": "A tall hat with a gold buckle.",
+          "art": [
+            "..........",
+            "...kkkk...",
+            "...kkkk...",
+            "...kkkk...",
+            "...kyyk...",
+            "...kyyk...",
+            "kkkkkkkkkk",
+            "kkkkkkkkkk",
+            "..........",
+            ".........."
+          ],
+          "ink": {
+            "k": "343A40",
+            "y": "FCC419"
+          }
+        },
+        {
+          "name": "Cabin",
+          "caption": "A log cabin with a stone chimney.",
+          "art": [
+            "......cc..",
+            "...rrrcc..",
+            "..rrrrrr..",
+            ".rrrrrrrr.",
+            "rrrrrrrrrr",
+            ".llllllll.",
+            ".lwwllddl.",
+            ".lwwllddl.",
+            ".llllllll.",
+            "gggggggggg"
+          ],
+          "ink": {
+            "c": "868E96",
+            "r": "5C3D2E",
+            "l": "A0522D",
+            "w": "FFD43B",
+            "d": "3E2723",
+            "g": "74B816"
+          }
+        },
+        {
+          "name": "Goose",
+          "caption": "A goose with a black neck, honking hello.",
+          "art": [
+            "..kk......",
+            ".kkko.....",
+            "..kk......",
+            "..ww......",
+            "..ww......",
+            "..wwwwww..",
+            ".wwwwwwwww",
+            "..wwwwwww.",
+            "....o.o...",
+            "...oo.oo.."
+          ],
+          "ink": {
+            "k": "212529",
+            "o": "F59F00",
+            "w": "ADB5BD"
+          }
+        },
+        {
+          "name": "Harvest Basket",
+          "caption": "A woven basket full of fall fruit.",
+          "art": [
+            "...hhhh...",
+            "..h....h..",
+            "..h....h..",
+            ".aoorryyg.",
+            "bbbbbbbbbb",
+            "bwbwbwbwbw",
+            "bbbbbbbbbb",
+            ".bwbwbwbw.",
+            ".bbbbbbbb.",
+            ".........."
+          ],
+          "ink": {
+            "h": "8D5524",
+            "a": "C92A2A",
+            "o": "F76707",
+            "r": "E03131",
+            "y": "FCC419",
+            "g": "74B816",
+            "b": "A0522D",
+            "w": "D9A066"
+          }
+        },
+        {
+          "name": "Flannel Shirt",
+          "caption": "A cozy plaid flannel shirt.",
+          "art": [
+            "...r..r...",
+            ".rrrrrrrr.",
+            "rrrrbrrrrr",
+            "rrkrbrrkrr",
+            "rr.rbrr.rr",
+            "rr.rbrr.rr",
+            "rr.rbrr.rr",
+            "rr.rrrr.rr",
+            ".rrkrrkr..",
+            "..rrrrrr.."
+          ],
+          "ink": {
+            "r": "C92A2A",
+            "b": "F8F9FA",
+            "k": "212529"
+          }
+        }
+      ]
+    }
+  ]
+}
