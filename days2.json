@@ -1101,33 +1101,32 @@
         },
         "15": {
           "name": "Cash",
-          "caption": "A bag of cash, tied at the top.",
+          "caption": "A cash.",
           "art": [
-            "...............",
-            "....A..A..A....",
-            ".....ttttt.....",
-            "......Bbb......",
-            ".....Atttt.....",
-            "....bbBbbbB....",
-            "...BBBBbBBBb...",
-            "..BBBBBCbbbbb..",
-            ".BBBBddCddbBbb.",
-            ".BBBBbbdbbBBBb.",
-            ".bBBbddCddbBBb.",
-            ".bbbbBBCBbbBBB.",
-            ".bBBbddCdCbBbb.",
-            "..BBbbBdbBBBb..",
-            "...bbbbbBbbb..."
+            ".....n.N.NN....",
+            "....naNanaN....",
+            ".....naaaN.....",
+            ".....nnnnonn...",
+            "....naaaannn...",
+            "...naaaaaan....",
+            "...naagggaaN...",
+            "..naagggggaN...",
+            "..naagggaaaan..",
+            "..naaagggaaan..",
+            "..naaaagggaan..",
+            "..naagggggaan..",
+            "..Naaagggaaan..",
+            "...Naaaaaaan...",
+            "....nnnnnnn...."
           ],
           "ink": {
-            "b": "8D6E3F",
-            "t": "5C3D1E",
-            "d": "2B8A3E"
+            "n": "5E2F1A",
+            "a": "A0522D",
+            "o": "A1887F",
+            "g": "2B8A3E"
           },
           "backdrop": {
-            "A": "5C3D1E",
-            "B": "8D6E3F",
-            "C": "2B8A3E"
+            "N": "5E2F1A"
           }
         }
       }
@@ -1167,35 +1166,38 @@
           }
         },
         "15": {
-          "name": "Siren",
-          "caption": "A flashing police siren. Someone's in trouble.",
+          "name": "Getaway Car",
+          "caption": "A getaway Car.",
           "art": [
-            "y......y......y",
-            ".y...........y.",
-            "..y.rrrrrrA.y..",
-            "...rrAAAAArr...",
-            "...rBrAAArBA...",
-            "..ArRrrAArRrr..",
-            "..rrRrAAArBAr..",
-            "..rArAAAAArAA..",
-            "..rrAArrrrrAA..",
-            ".CbCCbbCbCbbbb.",
-            ".bCbCbCCCCCCCb.",
-            "CbbbbCbbbbCCbbb",
             "...............",
+            "...............",
+            "r.............r",
+            "rrrrrrrrrrrrrrr",
+            "..rrrbbbbbrrr..",
+            ".rrrrbbbbbrrrr.",
+            "RbbbbgbPbGBBbBR",
+            "RbbbttPgPtabbBR",
+            "RAAaBGPgggbaaaR",
+            "RAArrrrrrrrraaR",
+            "RarrrrrrrrrrraR",
+            "brRrrRrrrrRRrRb",
+            "bb...........bb",
             "...............",
             "..............."
           ],
           "ink": {
-            "r": "E03131",
-            "R": "FF8787",
-            "b": "495057"
+            "r": "F03E3E",
+            "b": "1B1B2F",
+            "g": "82C91E",
+            "t": "3BC9DB",
+            "a": "2100FF"
           },
           "backdrop": {
-            "A": "E03131",
-            "B": "FF8787",
-            "C": "495057",
-            "y": "FFD43B"
+            "R": "F03E3E",
+            "P": "E599B0",
+            "G": "82C91E",
+            "B": "1B1B2F",
+            "A": "2100FF"
           }
         }
       }
@@ -1205,28 +1207,26 @@
       "theme": "Windows 1.0 released (1985); Vice Week",
       "puzzles": {
         "10": {
-          "name": "Motorcycle",
-          "caption": "A motorcycle, built for the open road.",
+          "name": "Handcuffs",
+          "caption": "A handcuffs.",
           "art": [
             "..........",
-            "......hh..",
-            "....rrrh..",
-            ".rrrAAAr..",
-            "rrrArrArrA",
-            ".kB....kB.",
-            "kBBk..kBBk",
-            "kBBk..kBBk",
-            ".kk....kk.",
+            "..........",
+            "...ssss...",
+            "..ss..ss..",
+            "aaaaa.aaaa",
+            "aSSSa.aSSa",
+            "aSSSa.aSSa",
+            ".aaa..aaa.",
+            "..........",
             ".........."
           ],
           "ink": {
-            "h": "868E96",
-            "r": "E03131",
-            "k": "343A40"
+            "s": "495057",
+            "a": "868E96"
           },
           "backdrop": {
-            "A": "E03131",
-            "B": "343A40"
+            "S": "CED4DA"
           }
         },
         "15": {

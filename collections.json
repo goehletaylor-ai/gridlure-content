@@ -849,44 +849,923 @@
             "A": "C92A2A",
             "B": "F8F9FA"
           }
+        }
+      ]
+    },
+    {
+      "id": "Basketball",
+      "title": "Basketball Collection",
+      "subtitle": "",
+      "plus": true,
+      "puzzles": [
+        {
+          "name": "76ers",
+          "caption": "A 76ers.",
+          "art": [
+            "...bbbb...",
+            "..bbbbbb..",
+            ".bbwwwwbb.",
+            "bbwWWwwwBb",
+            "bbrRBwwwbb",
+            "bbrrbwwwbb",
+            "bbrwbwwwbb",
+            ".bbwwwwbb.",
+            "..bbbBBb..",
+            "...bbBB..."
+          ],
+          "ink": {
+            "b": "1971C2",
+            "w": "FFFFFF",
+            "r": "E63946"
+          },
+          "backdrop": {
+            "W": "FFFFFF",
+            "B": "1971C2",
+            "R": "E63946"
+          }
         },
         {
-          "name": "Long wait",
-          "caption": "GTA",
+          "name": "Bucks",
+          "caption": "A bucks.",
+          "art": [
+            "....oo...oo....",
+            "...ooo....go...",
+            "...go.....og...",
+            "...go.O.o.og...",
+            "...gggO.oggg...",
+            "..ooggO.oggoo..",
+            "..oogggggggoo..",
+            ".ooooogwgooooo.",
+            ".ooooogwgooooo.",
+            ".ooooogggoooOO.",
+            "..gwoogogoowG..",
+            "..gwgooooowwg..",
+            "..ogwwgogwwgo..",
+            "...oggwwwggo...",
+            ".....ogggo....."
+          ],
+          "ink": {
+            "o": "FFE8CC",
+            "g": "1B5E20",
+            "w": "F8F9FA"
+          },
+          "backdrop": {
+            "O": "FFE8CC",
+            "G": "1B5E20"
+          }
+        },
+        {
+          "name": "Bulls",
+          "caption": "A bulls.",
+          "art": [
+            "k.K.K.K.KK",
+            "k.........",
+            ".w.K...w..",
+            "w.......w.",
+            "wwwrrrrww.",
+            ".wrrrrrr..",
+            "..rrrrr...",
+            "...rrrr...",
+            "...rrr....",
+            "....rr...."
+          ],
+          "ink": {
+            "k": "212529",
+            "w": "FFFFFF",
+            "r": "E63946"
+          },
+          "backdrop": {
+            "K": "212529"
+          }
+        },
+        {
+          "name": "Cavaliers",
+          "caption": "A cavaliers.",
+          "art": [
+            "...............",
+            "...............",
+            "...............",
+            "...............",
+            "......bpppp....",
+            ".....bpppppbb..",
+            ".....bwbbbbbww.",
+            "..bbbbbbwbWBww.",
+            "..bbbwwwwwWByb.",
+            "..wwwwbbBPbbb..",
+            "..wwB.PPPPPbbb.",
+            "...............",
+            "...............",
+            "...............",
+            "..............."
+          ],
+          "ink": {
+            "b": "1C3D7A",
+            "p": "A61E4D",
+            "w": "F8F9FA",
+            "y": "FFB703"
+          },
+          "backdrop": {
+            "W": "F8F9FA",
+            "B": "1C3D7A",
+            "P": "A61E4D"
+          }
+        },
+        {
+          "name": "Celtics",
+          "caption": "A celtics.",
+          "art": [
+            "..rkkk....",
+            ".grRkkgg..",
+            ".ggWnowgg.",
+            ".gWWWowwg.",
+            ".gWWogwwg.",
+            ".gWgogwwg.",
+            ".gWWkkwog.",
+            "..GWkkwg..",
+            "...kggg...",
+            "...kk....."
+          ],
+          "ink": {
+            "r": "9D0208",
+            "k": "212529",
+            "g": "2B8A3E",
+            "n": "8D6E63",
+            "o": "D9A066",
+            "w": "FFFFFF"
+          },
+          "backdrop": {
+            "R": "9D0208",
+            "W": "FFFFFF",
+            "G": "2B8A3E"
+          }
+        },
+        {
+          "name": "Clippers",
+          "caption": "A clippers.",
+          "art": [
+            "...............",
+            "...............",
+            ".......wwwww...",
+            "...wwwwwwwwww..",
+            "..wwwwWWwwwwww.",
+            ".wwwwwWWwwwwwww",
+            ".wwwwwwwwwwwwww",
+            "WBwwwwwwwwwwwww",
+            "WBBwwBBwbwwwwww",
+            "BBBBwwBwbwwwwww",
+            "wwwwwwwwwwwwww.",
+            ".www..wwwwwww..",
+            ".......wwwww...",
+            "...............",
+            "..............."
+          ],
+          "ink": {
+            "w": "FFFFFF",
+            "b": "1971C2"
+          },
+          "backdrop": {
+            "W": "FFFFFF",
+            "B": "1971C2"
+          }
+        },
+        {
+          "name": "Grizzlies",
+          "caption": "A grizzlies.",
+          "art": [
+            "..Bb..bb..",
+            "..aaaabb..",
+            "..aacbbb..",
+            "..aacbbb..",
+            "...acbb...",
+            "....bb....",
+            ".bb.....b.",
+            ".bb.B.B.b.",
+            "..........",
+            ".........."
+          ],
+          "ink": {
+            "b": "1D3557",
+            "a": "1864AB",
+            "c": "D0EBFF"
+          },
+          "backdrop": {
+            "B": "1D3557"
+          }
+        },
+        {
+          "name": "Hawks",
+          "caption": "A hawks.",
+          "art": [
+            ".....rrrrr.....",
+            "...rrrrrrrrr...",
+            "..wrrrrrrrrrw..",
+            ".rrrrrrrrrrrrr.",
+            ".rrrrrrwwrrrrr.",
+            "rrrWWWrrwwrrrrr",
+            "rrrWWWrWrrWrrrr",
+            "rrrWWWWWWrWrrrr",
+            "rrrWWWWrrrWrrrr",
+            "rRRWrrWWrrrrrrr",
+            ".RRrrrWWWrrrrr.",
+            ".rrrrrrrrrrrrr.",
+            "..rrrrrrrrrrr..",
+            "...rrrrrrrrr...",
+            ".....rrrrr....."
+          ],
+          "ink": {
+            "r": "D62828",
+            "w": "FFFFFF"
+          },
+          "backdrop": {
+            "W": "FFFFFF",
+            "R": "D62828"
+          }
+        },
+        {
+          "name": "Heat",
+          "caption": "A heat.",
+          "art": [
+            "..........",
+            ".....oo...",
+            "..K..ow...",
+            "...oooo...",
+            "..oooo....",
+            "..oooo....",
+            "..oWoo....",
+            "....o.....",
+            "..k.......",
+            "....k.K..."
+          ],
+          "ink": {
+            "o": "FD7E14",
+            "w": "FFFFFF",
+            "k": "343A40"
+          },
+          "backdrop": {
+            "K": "343A40",
+            "W": "FFFFFF"
+          }
+        },
+        {
+          "name": "Hornets",
+          "caption": "A hornets.",
           "art": [
             "....................",
-            "....................",
-            "vvvvv....vvvv.VVVVVV",
-            "vaaaAV..vaaaav.VaaaV",
-            ".VaaAAv.vaaaav.Vaaav",
-            ".Vaaaabvaaaav.vaaaav",
-            "..Vbbbbbbbbbv.vbbbbV",
-            "..Vbbbbbbbbv..vbbbbV",
-            "...Vbbbbbbbv..vbbbbV",
-            "...VppppppV...VppppV",
-            "....vppppPV...vppppV",
-            "....vprrrv....vrrppV",
-            ".....vrrrv....vrrrrV",
-            ".....vrrV.....VorrrV",
-            "......voV.....voorrV",
-            "......vv......vooooV",
-            ".......v......vooooV",
-            "...............VVVVV",
+            ".v................vs",
+            "svTs............stvs",
+            "svwtv..........Stwvs",
+            ".vwwwtsssssss.Twwwv.",
+            ".swwwwtsvttvstwwwws.",
+            "..vwwwvwvttvWvwwwv..",
+            "...Svvvvvtvvvvvvs...",
+            "....stvvvvvvvvvv....",
+            "...svvvvvvvvvvvvv...",
+            "...vwwwwwwwwvwvvv...",
+            "...vwwwwwwvwwwvvv...",
+            "...svvvvvttvvvvvv...",
+            "....ssvvvttvvvss....",
+            ".......svttvs.......",
+            ".........vv.........",
+            ".........ss.........",
+            ".........ss.........",
             "....................",
             "...................."
           ],
           "ink": {
             "v": "3B1F5C",
-            "a": "6741D9",
-            "b": "BE4BDB",
-            "p": "F541B4",
-            "r": "FF8787",
-            "o": "F4A261"
+            "s": "ADB5BD",
+            "t": "0C8599",
+            "w": "FFFFFF"
           },
           "backdrop": {
-            "V": "3B1F5C",
-            "A": "6741D9",
-            "P": "F541B4"
+            "T": "0C8599",
+            "S": "ADB5BD",
+            "W": "FFFFFF"
+          }
+        },
+        {
+          "name": "Jazz",
+          "caption": "A jazz.",
+          "art": [
+            "....................",
+            "....................",
+            "....................",
+            "........bbbbbb......",
+            "......bbBbGbbbbb....",
+            ".....bBBbGGwwWBbB...",
+            "....bbBbgwwgwWwBbbBb",
+            "....bbBBBGGGgBbBbwWb",
+            "....bbwwbbbBWWWBOWBb",
+            "....bBWBbwwbbwobwwbb",
+            "....bWWBWWWBbwBOwwO.",
+            "....bwwbwoWBwwoGbb..",
+            "bbbbbwbwwowOGggGBb..",
+            "bbWbWwbwbgGGGggbBB..",
+            "bbWbwWbbggGGGGBBb...",
+            "bbWwwBbbbbBBbbbb....",
+            "..Bbbb.bbbbbbb......",
+            "....................",
+            "....................",
+            "...................."
+          ],
+          "ink": {
+            "b": "1D3557",
+            "w": "FFFFFF",
+            "g": "1B5E20",
+            "o": "F59F00"
+          },
+          "backdrop": {
+            "B": "1D3557",
+            "G": "1B5E20",
+            "W": "FFFFFF",
+            "O": "F59F00"
+          }
+        },
+        {
+          "name": "Kings",
+          "caption": "A kings.",
+          "art": [
+            "....................",
+            ".........kk.........",
+            ".......k.kk.k.......",
+            "..k....kksskk....k..",
+            "..kk.kksssssskk.kk..",
+            "...kkksssssSSskkk...",
+            "...kkbbbbbbBBbbkk...",
+            "..kkbbbbksskbbbbkk..",
+            "..kwbwbkkkkkkbwwwk..",
+            "..kwbwbwwwwwwbwbwk..",
+            "..kwwwbwwwwwbbwbbk..",
+            "..kwwwbwwbwwwbbwbk..",
+            "..kwwwwwwkwwwwwwwk..",
+            "..kwwwwbkkkkbwwwwk..",
+            "..kbwbksbbbbskkwbk..",
+            "...kbkssbbbbsskbk...",
+            "...kkkkskbbkskkkk...",
+            "....kk.kkkkkk.kk....",
+            "....k..........k....",
+            "...kk..........kk..."
+          ],
+          "ink": {
+            "k": "212529",
+            "s": "ADB5BD",
+            "b": "364FC7",
+            "w": "FFFFFF"
+          },
+          "backdrop": {
+            "S": "ADB5BD",
+            "B": "364FC7"
+          }
+        },
+        {
+          "name": "Knicks",
+          "caption": "A knicks.",
+          "art": [
+            "....................",
+            "....................",
+            ".......wwwwww.......",
+            ".....wwbbwBBBWW.....",
+            "...WoobbboooBBoOW...",
+            "wwwooooobooBooobbWWW",
+            ".wSooboobooBooboosW.",
+            "..Boobbobbooobboob..",
+            ".wObobbSbbbbsboooow.",
+            ".wobsssBoooobbbssow.",
+            ".wSbsbboooooobbsssw.",
+            "..wbwboooooooobssw..",
+            "......oooooooo......",
+            "......oooooooo......",
+            "......woooooow......",
+            ".......wooooW.......",
+            ".........BB.........",
+            "....................",
+            "....................",
+            "...................."
+          ],
+          "ink": {
+            "w": "FFFFFF",
+            "b": "1971C2",
+            "o": "FD7E14",
+            "s": "CED4DA"
+          },
+          "backdrop": {
+            "B": "1971C2",
+            "W": "FFFFFF",
+            "O": "FD7E14",
+            "S": "CED4DA"
+          }
+        },
+        {
+          "name": "Lakers",
+          "caption": "A lakers.",
+          "art": [
+            "....................",
+            "....................",
+            "....................",
+            "....................",
+            ".......kkkkk........",
+            ".....KkyYYyykk......",
+            "....kyyyyYYyyk......",
+            "....kyYyyyYYyyk.....",
+            "...kyYYYvyyVYyvk....",
+            "...kyYvVVyvvYyvK.k..",
+            "..kyyVvvVYvyyVK..K..",
+            ".KKKyVvyvVVyyVYK....",
+            ".K..KYyyyyYyyyKK....",
+            "....KYYYyyyyyK......",
+            ".....KyYYYYYkk......",
+            "......kkkkkK........",
+            "....................",
+            "....................",
+            "....................",
+            "...................."
+          ],
+          "ink": {
+            "k": "141618",
+            "y": "FFB703",
+            "v": "862E9C"
+          },
+          "backdrop": {
+            "K": "141618",
+            "Y": "FFB703",
+            "V": "862E9C"
+          }
+        },
+        {
+          "name": "Magic",
+          "caption": "A magic.",
+          "art": [
+            "..........",
+            "..........",
+            "..SkSbks..",
+            "bbbbbbsbbB",
+            "bbbbbbbbbs",
+            "bsbkkkkkbs",
+            "s.K.skSSks",
+            ".....kBSs.",
+            "......SS..",
+            ".........."
+          ],
+          "ink": {
+            "k": "212529",
+            "b": "1971C2",
+            "s": "CED4DA"
+          },
+          "backdrop": {
+            "S": "CED4DA",
+            "B": "1971C2",
+            "K": "212529"
+          }
+        },
+        {
+          "name": "Mavericks",
+          "caption": "A mavericks.",
+          "art": [
+            ".....kwwwk.....",
+            ".kw.wwwwwww.wk.",
+            ".SSwwwkkbbwssw.",
+            ".SSwswkkkbbwsk.",
+            "..SSkwwkkkbks..",
+            "..Skkwwkkbbbs..",
+            "..SSkwwkbbbbw..",
+            "..kSSwwkbbbs...",
+            "wbkSSkwkbkkskbW",
+            ".bkbbbkkkbbbkb.",
+            ".bkkkkkkkkkkkw.",
+            ".wkkkkkkkkkkb..",
+            "..bbbbsbsbbbb..",
+            "..wb..wss..b...",
+            ".......w......."
+          ],
+          "ink": {
+            "k": "212529",
+            "w": "FFFFFF",
+            "b": "1864AB",
+            "s": "CED4DA"
+          },
+          "backdrop": {
+            "S": "CED4DA",
+            "W": "FFFFFF"
+          }
+        },
+        {
+          "name": "Nets",
+          "caption": "A nets.",
+          "art": [
+            "..kkkkKk..",
+            ".kwwkkkkK.",
+            ".KWwkkkkk.",
+            "..Kkwkkk..",
+            "..KWwwwk..",
+            "...wwwwk..",
+            "...kwwk...",
+            "..........",
+            "....k.....",
+            "..k.w....."
+          ],
+          "ink": {
+            "k": "212529",
+            "w": "FFFFFF"
+          },
+          "backdrop": {
+            "K": "212529",
+            "W": "FFFFFF"
+          }
+        },
+        {
+          "name": "Nuggets",
+          "caption": "A nuggets.",
+          "art": [
+            "...............",
+            "...............",
+            "...............",
+            "......bww......",
+            "....BaaaaaB....",
+            "...BaaBbBAabb..",
+            "..BBBwBbbbbbb..",
+            "yyabayAYYyybbyy",
+            "YyyyyyyYYyyyyyy",
+            "yyyyyyyAAyayaYy",
+            "yyyyyyYYYyayAAy",
+            "yYYyyyYYyyayaYy",
+            "yYYy.y.yyYyyyyy",
+            "...............",
+            "..............."
+          ],
+          "ink": {
+            "b": "4DABF7",
+            "w": "F8F9FA",
+            "a": "1C3D7A",
+            "y": "FFB703"
+          },
+          "backdrop": {
+            "B": "4DABF7",
+            "A": "1C3D7A",
+            "Y": "FFB703"
+          }
+        },
+        {
+          "name": "Pacers",
+          "caption": "A pacers.",
+          "art": [
+            "..........",
+            "..bbbbbb..",
+            ".SBbyyyyb.",
+            ".BBbyyyyb.",
+            ".BByyyyyb.",
+            ".bbbyyyyb.",
+            ".bbbbbbb..",
+            "BBbb......",
+            "bbbB......",
+            ".........."
+          ],
+          "ink": {
+            "b": "1C3D7A",
+            "y": "FFC300"
+          },
+          "backdrop": {
+            "S": "ADB5BD",
+            "B": "1C3D7A"
+          }
+        },
+        {
+          "name": "Pelicans",
+          "caption": "A pelicans.",
+          "art": [
+            "...............",
+            "...............",
+            ".....ooooo.....",
+            "..obbbwbwbbbo..",
+            "obwbwbwwwbbwwbo",
+            "wwbwwbwbwwbwwwb",
+            "bwbbbbbbbbbbbbb",
+            "bbboobBWbboobbb",
+            ".bBBooBBboobbb.",
+            "..BBBbBbbbbbb..",
+            "...brrbobrrb...",
+            "....brrrrrb....",
+            ".....rrrrr.....",
+            "...............",
+            "..............."
+          ],
+          "ink": {
+            "o": "C9A26B",
+            "b": "1C3D7A",
+            "w": "F8F9FA",
+            "r": "E03131"
+          },
+          "backdrop": {
+            "B": "1C3D7A",
+            "W": "F8F9FA"
+          }
+        },
+        {
+          "name": "Pistons",
+          "caption": "A pistons.",
+          "art": [
+            "..........",
+            "..BBrrbb..",
+            ".Brrrrrrb.",
+            ".rrwrwwrb.",
+            "wwwwwwwwww",
+            "wwwwwwwwww",
+            "wwrrrRRrbw",
+            ".brrrRRrb.",
+            "..bwRRBB..",
+            ".........."
+          ],
+          "ink": {
+            "r": "E63946",
+            "b": "1971C2",
+            "w": "FFFFFF"
+          },
+          "backdrop": {
+            "B": "1971C2",
+            "R": "E63946"
+          }
+        },
+        {
+          "name": "Raptors",
+          "caption": "A raptors.",
+          "art": [
+            ".....kkkkk.....",
+            "...kkkkskkkr...",
+            "..kkkkkskkkkr..",
+            ".kkkkkkskkKKkR.",
+            ".kkkkkkkssKKSk.",
+            "kkkkksssssskskk",
+            "kkkkssssssskkkk",
+            "kkkkkkkssssskkk",
+            "kkkkksssssskKkk",
+            "kkkksSskssskSkk",
+            ".kkkkkkksskkSk.",
+            ".kkkkkkkkksskR.",
+            "..kkkkkkkskkR..",
+            "...kKKKkkskR...",
+            ".....KKkkk....."
+          ],
+          "ink": {
+            "k": "212529",
+            "s": "CED4DA",
+            "r": "C1121F"
+          },
+          "backdrop": {
+            "K": "212529",
+            "R": "C1121F",
+            "S": "CED4DA"
+          }
+        },
+        {
+          "name": "Rockets",
+          "caption": "A rockets.",
+          "art": [
+            "..........",
+            "..........",
+            "....Pbbb..",
+            ".WbPPwabw.",
+            ".wwwwwwww.",
+            "bwwwwwwww.",
+            "bwwwwbwww.",
+            "b..pppp...",
+            "....bb....",
+            ".........."
+          ],
+          "ink": {
+            "b": "364FC7",
+            "w": "E3FAFC",
+            "a": "74C0FC",
+            "p": "D6336C"
+          },
+          "backdrop": {
+            "P": "D6336C",
+            "W": "E3FAFC"
+          }
+        },
+        {
+          "name": "Spurs",
+          "caption": "A spurs.",
+          "art": [
+            "...............",
+            "...............",
+            "...............",
+            "...............",
+            "..kkkKKkkkkkk..",
+            ".kksswsSWWsskk.",
+            "kskwKKWWkkkkksK",
+            ".skkwSkkssWkkss",
+            ".sssswkkkkssss.",
+            ".kkkkkkk...KKK.",
+            "......s........",
+            "...............",
+            "...............",
+            "...............",
+            "..............."
+          ],
+          "ink": {
+            "k": "212529",
+            "s": "CED4DA",
+            "w": "FFFFFF"
+          },
+          "backdrop": {
+            "K": "212529",
+            "S": "CED4DA",
+            "W": "FFFFFF"
+          }
+        },
+        {
+          "name": "Suns",
+          "caption": "A suns.",
+          "art": [
+            "...kkkkkkk",
+            "..kkkooakk",
+            "..kkaoook.",
+            "..kaaoook.",
+            ".kkaaaakk.",
+            ".kkkkkkkk.",
+            ".kkkkkkk..",
+            ".kWkWWKK..",
+            "kWWwwwwk..",
+            "kkkkkkkk.."
+          ],
+          "ink": {
+            "k": "212529",
+            "o": "E8590C",
+            "a": "F59F00",
+            "w": "DEE2E6"
+          },
+          "backdrop": {
+            "W": "DEE2E6",
+            "K": "212529"
+          }
+        },
+        {
+          "name": "Thunder",
+          "caption": "A thunder.",
+          "art": [
+            "...............",
+            ".......b.......",
+            ".......b.......",
+            ".......b.......",
+            ".......b.......",
+            "...............",
+            "....bbbbbbb....",
+            "...bynnnnwabb..",
+            "...byWwwBwab...",
+            "...bwwwWBnab...",
+            "...bwwbBnnb....",
+            "...bbbyNab.....",
+            "...b..bab......",
+            ".......b.......",
+            "..............."
+          ],
+          "ink": {
+            "b": "1C3D7A",
+            "y": "FCC419",
+            "n": "D9480F",
+            "w": "FFFFFF",
+            "a": "1971C2"
+          },
+          "backdrop": {
+            "W": "FFFFFF",
+            "B": "1C3D7A",
+            "N": "D9480F"
+          }
+        },
+        {
+          "name": "Timberwolves",
+          "caption": "A timberwolves.",
+          "art": [
+            "..........",
+            "..........",
+            "...SSkk...",
+            "...Sskk...",
+            ".kkSSkkkk.",
+            ".GkkSkggg.",
+            "kkkkkkkkKK",
+            "sssssSssSK",
+            ".KKsbKkkkk",
+            ".........."
+          ],
+          "ink": {
+            "k": "212529",
+            "s": "CED4DA",
+            "g": "37B24D",
+            "b": "1C3D5A"
+          },
+          "backdrop": {
+            "S": "CED4DA",
+            "G": "37B24D",
+            "K": "212529"
+          }
+        },
+        {
+          "name": "Trailblazers",
+          "caption": "A trailblazers.",
+          "art": [
+            ".....skskkkkks.",
+            ".....ksskkssk..",
+            ".....kkkkkkkk..",
+            "....skkkkkkks..",
+            "....kksssRkks..",
+            "....ksssRRRk...",
+            "....ksskRRRk...",
+            "...skssRRRRs...",
+            "...kkkkRRRk....",
+            "...kkkkkkkk....",
+            "..skkkkkkkk....",
+            "..skksskkks....",
+            "..kkkkkkkk.....",
+            "..kkkkkkkk.....",
+            ".skkkkkkks....."
+          ],
+          "ink": {
+            "s": "CED4DA",
+            "k": "212529"
+          },
+          "backdrop": {
+            "R": "E03131"
+          }
+        },
+        {
+          "name": "Warriors",
+          "caption": "A warriors.",
+          "art": [
+            "..........",
+            "...bbbb...",
+            "..bbbbbb..",
+            ".bbbbbbbb.",
+            ".bybbbbbb.",
+            ".bybBBbbb.",
+            ".byyYYyy..",
+            "..Bybbbb..",
+            "....bb....",
+            ".........."
+          ],
+          "ink": {
+            "b": "1971C2",
+            "y": "FFC300"
+          },
+          "backdrop": {
+            "B": "1971C2",
+            "Y": "FFC300"
+          }
+        },
+        {
+          "name": "Wizards",
+          "caption": "A wizards.",
+          "art": [
+            ".....rrrrr.....",
+            "...rrwwwwwrr...",
+            "..rWWrrrrrrwr..",
+            ".rwWRrrrrrrwwr.",
+            ".rrrrbwSwbrrrr.",
+            "rrrwbbwbbbbwrrr",
+            "rrrbbbbbbbbbrrr",
+            "wwwbbbbsbbbbwww",
+            "wwwbbbbsbbbbwww",
+            "rrrwbbbsbbbwrrS",
+            ".rrrbbbsbbbrrr.",
+            ".bbbbbbsbbbbbb.",
+            "..bwwbbbbbwwb..",
+            "...bbbwwwwbb...",
+            ".....bbbbb....."
+          ],
+          "ink": {
+            "r": "E63946",
+            "w": "FFFFFF",
+            "b": "1C3D7A",
+            "s": "ADB5BD"
+          },
+          "backdrop": {
+            "W": "FFFFFF",
+            "R": "E63946",
+            "S": "ADB5BD"
+          }
+        },
+        {
+          "name": "Nba Logo",
+          "caption": "A nba Logo.",
+          "art": [
+            "...Bwwr...",
+            "...Wbrr...",
+            "...WWwr...",
+            "...wwrR...",
+            "...wwrW...",
+            "...Wwww...",
+            "...wwwR...",
+            "...wbwR...",
+            "...bbBR...",
+            "...bbRW..."
+          ],
+          "ink": {
+            "w": "FFFFFF",
+            "r": "D62828",
+            "b": "1C3D7A"
+          },
+          "backdrop": {
+            "B": "1C3D7A",
+            "W": "FFFFFF",
+            "R": "D62828"
           }
         }
       ]
