@@ -1065,38 +1065,34 @@
     },
     {
       "date": "2026-11-18",
-      "theme": "Steamboat Willie premiered (1928); Vice Week",
+      "theme": "Vice Week: pre-launch",
       "puzzles": {
         "10": {
-          "name": "Steamboat",
-          "caption": "A paddle steamboat puffing along the river.",
+          "name": "Countdown",
+          "caption": "A neon stopwatch ticking down the final minutes.",
           "art": [
-            "...B..s...",
-            "..B..B....",
-            "..kE.kk...",
-            "..kE.Ek...",
-            ".wwwwwHww.",
-            ".wdIwddHw.",
-            "rrrArrrAAA",
-            ".rAAAAAAA.",
-            "..rrrrrr..",
-            "vRRRvvvvRR"
+            "....tt....",
+            "..pppppp..",
+            ".pbbbwaap.",
+            "pbbbbWAaap",
+            "pbbbbWAaap",
+            "pbbbbwwwwP",
+            "pbbbbbbbbp",
+            "pbbbbbbbbp",
+            ".pbbbbbbp.",
+            "..ppPppp.."
           ],
           "ink": {
-            "k": "343A40",
+            "t": "22B8CF",
+            "p": "E64980",
+            "b": "1B1B2F",
             "w": "F8F9FA",
-            "r": "C92A2A",
-            "B": "CED4DA",
-            "I": "74C0FC",
-            "R": "4DABF7"
+            "a": "1098AD"
           },
           "backdrop": {
-            "s": "CED4DA",
-            "d": "74C0FC",
-            "v": "4DABF7",
-            "A": "C92A2A",
-            "E": "343A40",
-            "H": "F8F9FA"
+            "W": "F8F9FA",
+            "A": "1098AD",
+            "P": "E64980"
           }
         },
         "15": {
@@ -1166,160 +1162,182 @@
           }
         },
         "15": {
-          "name": "Getaway Car",
-          "caption": "A getaway Car.",
+          "name": "Sunset VI",
+          "caption": "A big Roman numeral six glowing in sunset colours.",
           "art": [
             "...............",
-            "...............",
-            "r.............r",
-            "rrrrrrrrrrrrrrr",
-            "..rrrbbbbbrrr..",
-            ".rrrrbbbbbrrrr.",
-            "RbbbbgbPbGBBbBR",
-            "RbbbttPgPtabbBR",
-            "RAAaBGPgggbaaaR",
-            "RAArrrrrrrrraaR",
-            "RarrrrrrrrrrraR",
-            "brRrrRrrrrRRrRb",
-            "bb...........bb",
-            "...............",
+            "vvv...vvv.vvvvV",
+            "vvv...vvv..vvv.",
+            "aaa...aaa..aaa.",
+            "aaa...Aaa..aaa.",
+            ".ppp.Ppp...ppp.",
+            ".ppp.ppp...ppp.",
+            ".rrr.rrr...Rrr.",
+            ".rrr.rRr...Rrr.",
+            "..ooooo....Ooo.",
+            "..ooooo....Ooo.",
+            "..yyyyy....yyy.",
+            "..yyyyy....yyy.",
+            "...Yyy....yyyyy",
             "..............."
           ],
           "ink": {
-            "r": "F03E3E",
-            "b": "1B1B2F",
-            "g": "82C91E",
-            "t": "3BC9DB",
-            "a": "2100FF"
+            "v": "5F3DC4",
+            "a": "AE3EC9",
+            "p": "E64980",
+            "r": "FF6B6B",
+            "o": "FF922B",
+            "y": "FCC419"
           },
           "backdrop": {
-            "R": "F03E3E",
-            "P": "E599B0",
-            "G": "82C91E",
-            "B": "1B1B2F",
-            "A": "2100FF"
+            "V": "5F3DC4",
+            "A": "AE3EC9",
+            "P": "E64980",
+            "R": "FF6B6B",
+            "O": "FF922B",
+            "Y": "FCC419"
           }
         }
       }
     },
     {
       "date": "2026-11-20",
-      "theme": "Windows 1.0 released (1985); Vice Week",
+      "theme": "Vice Week: night drive",
       "puzzles": {
         "10": {
-          "name": "Handcuffs",
-          "caption": "A handcuffs.",
+          "name": "Shades",
+          "caption": "Gold-rimmed shades with a sunset in the lenses.",
           "art": [
             "..........",
             "..........",
-            "...ssss...",
-            "..ss..ss..",
-            "aaaaa.aaaa",
-            "aSSSa.aSSa",
-            "aSSSa.aSSa",
-            ".aaa..aaa.",
+            "yyyyyyyyYY",
+            "YvvvyyvvvY",
+            "ypPpyYPPpy",
+            "yOOOyyoOoy",
+            ".yay..yay.",
+            "..y....y..",
             "..........",
             ".........."
           ],
           "ink": {
-            "s": "495057",
-            "a": "868E96"
+            "y": "FAB005",
+            "v": "7048E8",
+            "p": "E64980",
+            "o": "FF922B",
+            "a": "FFD43B"
           },
           "backdrop": {
-            "S": "CED4DA"
+            "Y": "FAB005",
+            "P": "E64980",
+            "O": "FF922B"
           }
         },
         "15": {
-          "name": "Window",
-          "caption": "A four-pane window.",
+          "name": "Sunset Cruiser",
+          "caption": "A teal convertible cruising past a giant sunset.",
           "art": [
             "...............",
-            ".AAfffAAAffAff.",
-            ".fSsBBBfssssSA.",
-            ".fsSBBBABBsCsA.",
-            ".fssBBBfsBBsBf.",
-            ".AsBBBsfsBBsBf.",
-            ".fsBsssfBsssBA.",
-            ".fAAffAffffAff.",
-            ".ASsBssAsssBCf.",
-            ".fsSsBsfBBsSsf.",
-            ".AssBBsAsBBssA.",
-            ".ABBsssAsBBssA.",
-            ".AsssssfsssBsf.",
-            ".fffffAAAfffff.",
-            "ffAAfAffAAAffff"
+            ".....yyyyy.....",
+            "....yyyyyyy....",
+            "...OOooooooo...",
+            "..oOOoooooooo..",
+            "..ppppppppppp..",
+            "..ppppppttppp..",
+            "..vaaaaaataaa..",
+            ".aaaaaaaaaaaaaa",
+            "Awwwwwwwwwwwwwa",
+            "aakkkkaaaKKKkaa",
+            "..ksskvvvkSSK..",
+            "..kkkk...kKKK..",
+            "BBBbbBBBBbbbbBB",
+            "..............."
           ],
           "ink": {
-            "f": "8B5A2B",
-            "s": "74C0FC",
-            "S": "A5D8FF"
+            "y": "FFD43B",
+            "o": "FF922B",
+            "p": "F06595",
+            "t": "C5F6FA",
+            "v": "9C36B5",
+            "a": "0C8599",
+            "w": "F1F3F5",
+            "k": "212529",
+            "s": "ADB5BD",
+            "b": "3B1F5C"
           },
           "backdrop": {
-            "A": "8B5A2B",
-            "B": "74C0FC",
-            "C": "A5D8FF"
+            "O": "FF922B",
+            "A": "0C8599",
+            "K": "212529",
+            "S": "ADB5BD",
+            "B": "3B1F5C"
           }
         }
       }
     },
     {
       "date": "2026-11-21",
-      "theme": "World Hello Day; World Television Day; Vice Week",
+      "theme": "Vice Week: weekend",
       "puzzles": {
         "10": {
-          "name": "Retro TV",
-          "caption": "An old TV set with antennas on top.",
+          "name": "Boombox",
+          "caption": "A neon boombox turned all the way up.",
           "art": [
-            "..AA..aa..",
-            "...a..a...",
-            "...aAaA...",
-            "EtttttEtEt",
-            "EsIIIsItMt",
-            "tIsssstEt.",
-            "EIssssIEME",
-            "EsIsIItEE.",
-            "EtttEttEEE",
-            ".t......E."
+            "..........",
+            "..ssssss..",
+            "..s....s..",
+            "kkKKkkkkkk",
+            "kpPPttpppk",
+            "KpVPttpvpk",
+            "kpppkkpppK",
+            "KkkkYYkkkK",
+            ".k......k.",
+            ".........."
           ],
           "ink": {
-            "a": "495057",
-            "t": "8D6E63",
-            "I": "A5D8FF",
-            "M": "343A40"
+            "s": "868E96",
+            "k": "343A40",
+            "p": "F06595",
+            "t": "3BC9DB",
+            "v": "862E9C"
           },
           "backdrop": {
-            "s": "A5D8FF",
-            "A": "495057",
-            "E": "8D6E63"
+            "K": "343A40",
+            "P": "F06595",
+            "V": "862E9C",
+            "Y": "FCC419"
           }
         },
         "15": {
-          "name": "Hello",
-          "caption": "A speech bubble, saying hello.",
+          "name": "Neon Palms",
+          "caption": "Palm trees silhouetted against a striped neon sun.",
           "art": [
             "...............",
-            "..AAAbbbbbbbb..",
-            ".bAbAAbAAbbbAb.",
-            ".bAwAbwAABwBAb.",
-            ".bbwbbwbAbwbAb.",
-            ".AbwwBwbAbwbAA.",
-            ".bbBAbwAAbBbAA.",
-            ".AbwbbBAABwwbb.",
-            ".AAbAbAAAbAbAb.",
-            "..AAbAbbbbbbb..",
-            "...AbA.........",
-            "...bb..........",
-            "...b...........",
-            "...............",
-            "..............."
+            "..vv....vv.....",
+            ".vvvv..vvvv....",
+            "vv..vvvvYYvvy..",
+            "v..vvvvvvOOvOO.",
+            "..vvOvvovvOOOO.",
+            ".v.OOvvooovOOOO",
+            "...PPPvpppppppp",
+            "...PPPvvppppppp",
+            ".......vv......",
+            "....aaavvaaaaa.",
+            "........vv.....",
+            ".....aaavvaaa..",
+            "........vv.....",
+            "vvvvvvvvvvvvvvv"
           ],
           "ink": {
-            "b": "4DABF7",
-            "w": "F8F9FA"
+            "v": "2B1D4E",
+            "y": "FFD43B",
+            "o": "FF922B",
+            "p": "F06595",
+            "a": "AE3EC9"
           },
           "backdrop": {
-            "A": "4DABF7",
-            "B": "F8F9FA"
+            "Y": "FFD43B",
+            "O": "FF922B",
+            "P": "F06595"
           }
         }
       }
