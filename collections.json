@@ -179,16 +179,21 @@
           "name": "Quilt",
           "caption": "A patchwork quilt with a fringe.",
           "art": [
-            "qpqpq",
-            "pqpqp",
-            "qpqpq",
-            "pqpqp",
-            "f.f.f"
+            "ApApq",
+            "pqBAp",
+            "ApApq",
+            "pqBqp",
+            "f.f.C"
           ],
           "ink": {
             "q": "C92A2A",
             "p": "F3D9A4",
             "f": "8D6E63"
+          },
+          "backdrop": {
+            "A": "C92A2A",
+            "B": "F3D9A4",
+            "C": "8D6E63"
           }
         },
         {
@@ -196,14 +201,18 @@
           "caption": "A hay bale tied with twine.",
           "art": [
             ".....",
-            "hhhhh",
-            "ttttt",
-            "hhhhh",
-            "hhhhh"
+            "AAhhh",
+            "tttBB",
+            "hhAhA",
+            "hhhAA"
           ],
           "ink": {
             "h": "E9C46A",
             "t": "B08968"
+          },
+          "backdrop": {
+            "A": "E9C46A",
+            "B": "B08968"
           }
         },
         {
@@ -848,6 +857,45 @@
           "backdrop": {
             "A": "C92A2A",
             "B": "F8F9FA"
+          }
+        },
+        {
+          "name": "Long wait",
+          "caption": "GTA",
+          "art": [
+            "....................",
+            "....................",
+            "vvvvv....vvvv.VVVVVV",
+            "vaaaAV..vaaaav.VaaaV",
+            ".VaaAAv.vaaaav.Vaaav",
+            ".Vaaaabvaaaav.vaaaav",
+            "..Vbbbbbbbbbv.vbbbbV",
+            "..Vbbbbbbbbv..vbbbbV",
+            "...Vbbbbbbbv..vbbbbV",
+            "...VppppppV...VppppV",
+            "....vppppPV...vppppV",
+            "....vprrrv....vrrppV",
+            ".....vrrrv....vrrrrV",
+            ".....vrrV.....VorrrV",
+            "......voV.....voorrV",
+            "......vv......vooooV",
+            ".......v......vooooV",
+            "...............VVVVV",
+            "....................",
+            "...................."
+          ],
+          "ink": {
+            "v": "3B1F5C",
+            "a": "6741D9",
+            "b": "BE4BDB",
+            "p": "F541B4",
+            "r": "FF8787",
+            "o": "F4A261"
+          },
+          "backdrop": {
+            "V": "3B1F5C",
+            "A": "6741D9",
+            "P": "F541B4"
           }
         }
       ]
