@@ -838,35 +838,33 @@
           }
         },
         "15": {
-          "name": "Suitcase",
-          "caption": "A travel suitcase with a handle on top.",
+          "name": "Spooky Black Cat",
+          "caption": "Two glowing eyes watch you from the dark.",
           "art": [
             "...............",
-            "...............",
-            ".....hhAAh.....",
-            ".....h...h.....",
-            "..bbbbbbbbbbb..",
-            ".CCBCCbCCCCBCC.",
-            ".bbDbCbgCCbBbb.",
-            ".bbDbCCCCCbBbb.",
-            ".bbBbCCCCCCBbb.",
-            ".bCBCCCCCCbBbb.",
-            ".bbBbCCCCCbBbC.",
-            ".bbBbbCCbbbBCC.",
-            "..bbbCbbCCCbb..",
-            "..h.........A..",
+            "..kk.......KK..",
+            "..kkk.....kKK..",
+            "..kkkk...kkkk..",
+            "..kkkkkkKkKKk..",
+            "..kkkkkKkkKKk..",
+            "..kkyykkKYYkk..",
+            "..kkyykkkYYkk..",
+            "..kkkkkpkKKkK..",
+            "..kKkkkkkkkkk..",
+            "...Kkkkkkkkk...",
+            "....kkkkkkk....",
+            "...kkkkkkkkk...",
+            "...kKKkkkkKk...",
             "..............."
           ],
           "ink": {
-            "b": "8B5A2B",
-            "B": "5C3D1E",
-            "h": "343A40",
-            "g": "FCC419"
+            "k": "212529",
+            "y": "F5D90A",
+            "p": "F783AC"
           },
           "backdrop": {
-            "A": "343A40",
-            "C": "8B5A2B",
-            "D": "5C3D1E"
+            "K": "212529",
+            "Y": "F5D90A"
           }
         }
       }
@@ -3904,6 +3902,71 @@
           "backdrop": {
             "A": "FF922B",
             "y": "FFD43B"
+          }
+        }
+      }
+    },
+    {
+      "date": "2027-01-02",
+      "theme": "Cocoa Mug",
+      "puzzles": {
+        "10": {
+          "name": "Cocoa Mug",
+          "caption": "A cozy mug of hot cocoa topped with a fluffy marshmallow.",
+          "art": [
+            "...s..S...",
+            "..S..s....",
+            "..wwwW....",
+            ".rrrrrrRr.",
+            "RNnnnnnnnr",
+            "RnnnnnnnnR",
+            "rnnnnnnnnR",
+            "RnnNNnnnnR",
+            ".rnNNNnnr.",
+            "..rrrrrr.."
+          ],
+          "ink": {
+            "s": "ADB5BD",
+            "w": "FFFFFF",
+            "r": "D62828",
+            "n": "5E2F1A"
+          },
+          "backdrop": {
+            "S": "ADB5BD",
+            "W": "FFFFFF",
+            "R": "D62828",
+            "N": "5E2F1A"
+          }
+        },
+        "15": {
+          "name": "Resolution Checklist",
+          "caption": "Three goals down, a whole new year to go!",
+          "art": [
+            "...............",
+            ".WWWWWWWWWWWWW.",
+            ".WbbbbbbbbbBBW.",
+            ".WWWWWWWWwwwww.",
+            ".WGWwwWWWwwWWW.",
+            ".WGGWWbbbbbbWW.",
+            ".WWGGWWwWwwWWW.",
+            ".WWWWWwwWWWWWW.",
+            ".WGWwWWwWWwWWW.",
+            ".WGgwWbbbbbbWW.",
+            ".WWggWWWWWWWWW.",
+            ".WWWWWWWWWWWWW.",
+            ".wgwWWWWWWWWWW.",
+            ".WggWWBBBBBBWw.",
+            ".wwwWWWWWWWWWW."
+          ],
+          "ink": {
+            "b": "1B1B2F",
+            "w": "F8F0E3",
+            "g": "2F9E44"
+          },
+          "backdrop": {
+            "W": "F8F0E3",
+            "B": "1B1B2F",
+            "G": "2F9E44"
           }
         }
       }
