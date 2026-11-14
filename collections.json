@@ -858,45 +858,6 @@
             "A": "C92A2A",
             "B": "F8F9FA"
           }
-        },
-        {
-          "name": "Long wait",
-          "caption": "GTA",
-          "art": [
-            "....................",
-            "....................",
-            "vvvvv....vvvv.VVVVVV",
-            "vaaaAV..vaaaav.VaaaV",
-            ".VaaAAv.vaaaav.Vaaav",
-            ".Vaaaabvaaaav.vaaaav",
-            "..Vbbbbbbbbbv.vbbbbV",
-            "..Vbbbbbbbbv..vbbbbV",
-            "...Vbbbbbbbv..vbbbbV",
-            "...VppppppV...VppppV",
-            "....vppppPV...vppppV",
-            "....vprrrv....vrrppV",
-            ".....vrrrv....vrrrrV",
-            ".....vrrV.....VorrrV",
-            "......voV.....voorrV",
-            "......vv......vooooV",
-            ".......v......vooooV",
-            "...............VVVVV",
-            "....................",
-            "...................."
-          ],
-          "ink": {
-            "v": "3B1F5C",
-            "a": "6741D9",
-            "b": "BE4BDB",
-            "p": "F541B4",
-            "r": "FF8787",
-            "o": "F4A261"
-          },
-          "backdrop": {
-            "V": "3B1F5C",
-            "A": "6741D9",
-            "P": "F541B4"
-          }
         }
       ]
     },
@@ -1232,6 +1193,47 @@
             "Y": "E9C46A",
             "A": "C08552",
             "S": "ADB5BD"
+          }
+        },
+        {
+          "name": "Thanksgiving Minivan",
+          "caption": "Packed up and headed to grandma's for the big feast!",
+          "art": [
+            "....................",
+            "....................",
+            "....................",
+            "....................",
+            "....................",
+            "......rrrrrrrr......",
+            ".....RBBrBBrbBR.....",
+            "....rBBBrbbrbbbrr...",
+            "...rrrrrrrrrrrrrrR..",
+            "..aaaaaaaaaaaaaaaAA.",
+            "..aaaaaaaaaaaaaaaaa.",
+            "..aaaaaaaaaaaaaaaay.",
+            "..aaaaaaaaaaaAAaaaa.",
+            "..aakkkaaaaaakkKaaa.",
+            ".aaKKOkkaaAAkKOKKaa.",
+            "..aKKOoOkAAkkOOOKaa.",
+            "...kkOkkK....KKOKkK.",
+            "....KKk.......KKK...",
+            "....................",
+            "...................."
+          ],
+          "ink": {
+            "r": "7A1F16",
+            "b": "D0EBFF",
+            "a": "C92A2A",
+            "y": "FFD43B",
+            "k": "212529",
+            "o": "E67700"
+          },
+          "backdrop": {
+            "R": "7A1F16",
+            "B": "D0EBFF",
+            "A": "C92A2A",
+            "K": "212529",
+            "O": "E67700"
           }
         }
       ]
