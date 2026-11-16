@@ -3816,32 +3816,36 @@
           }
         },
         "15": {
-          "name": "Party Hat",
-          "caption": "A purple-and-gold party hat with a pom-pom on top.",
+          "name": "New Year Digits",
+          "caption": "Ring in the new year with a sparkly countdown to 2027!",
           "art": [
-            "......yAy......",
-            "......yyy......",
-            ".......p.......",
-            "......BBp......",
-            "......AAy......",
-            ".....pppBp.....",
-            ".....AAyAy.....",
-            "....BpppBpB....",
-            "....yyAAAAy....",
-            "...ppppBpppp...",
-            "...yyyAyAyyy...",
-            "..pBppBpBpBBp..",
-            "..yyyyAyAyAyy..",
-            ".pppppppBBBppp.",
+            "...............",
+            "...............",
+            "...............",
+            "Rrr.ooo.rrR.Bbb",
+            "..r.o.o.r.r...b",
+            "..r.o.o.R.r...b",
+            "rrr.o.o.rrr..b.",
+            "r...o.o.r.r..b.",
+            "r...o.o.r.r..b.",
+            "rrr.ooo.rrr.B..",
+            "...............",
+            "..V.....g...v..",
+            "...............",
+            "...............",
             "..............."
           ],
           "ink": {
-            "p": "7048E8",
-            "y": "FAB005"
+            "r": "E63946",
+            "o": "F59F00",
+            "b": "339AF0",
+            "g": "51CF66",
+            "v": "BE4BDB"
           },
           "backdrop": {
-            "A": "FAB005",
-            "B": "7048E8"
+            "R": "E63946",
+            "B": "339AF0",
+            "V": "BE4BDB"
           }
         }
       }
@@ -4146,6 +4150,75 @@
           "backdrop": {
             "A": "1C7ED6",
             "B": "FAB005"
+          }
+        }
+      }
+    },
+    {
+      "date": "2027-08-09",
+      "theme": "Dapper Lion",
+      "puzzles": {
+        "10": {
+          "name": "Dapper Lion",
+          "caption": "This king of the jungle dressed up in a snazzy hat!",
+          "art": [
+            "...vvvv...",
+            "...vvvv...",
+            ".rrrrrrrr.",
+            ".nnnnnnnn.",
+            "nnNKYYknnn",
+            "nnyyYYYYnN",
+            "nnYYAAYYnN",
+            "nnnYYYYnnn",
+            ".nnnnnnnn.",
+            "..nn..nn.."
+          ],
+          "ink": {
+            "v": "2B1D4E",
+            "r": "D62828",
+            "n": "B5651D",
+            "k": "212529",
+            "y": "FFD166"
+          },
+          "backdrop": {
+            "N": "B5651D",
+            "K": "212529",
+            "Y": "FFD166",
+            "A": "8B4A2B"
+          }
+        },
+        "15": {
+          "name": "Birthday Cheesecake",
+          "caption": "A creamy slice of celebration with one tiny flame.",
+          "art": [
+            "......y........",
+            "......o........",
+            "......r........",
+            "......r........",
+            "......r........",
+            ".....aaa.......",
+            "...aaaAAAaaa...",
+            "..aaaaAAAaaaA..",
+            "..aaaAAaaaaaa..",
+            "..nnnNNNnnnnn..",
+            "..bbbbbBbBBbb..",
+            "..bbbbbbBBbbb..",
+            "..BBbbbBBbbbb..",
+            "..NNnnnnnnnnN..",
+            "..............."
+          ],
+          "ink": {
+            "y": "FFD43B",
+            "o": "F77F00",
+            "r": "E63946",
+            "a": "FFF3BF",
+            "n": "8B5A2B",
+            "b": "FFEC99"
+          },
+          "backdrop": {
+            "A": "FFF3BF",
+            "N": "8B5A2B",
+            "B": "FFEC99"
           }
         }
       }
