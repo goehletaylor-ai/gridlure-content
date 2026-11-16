@@ -4124,32 +4124,34 @@
           }
         },
         "15": {
-          "name": "Foam Finger",
-          "caption": "A big foam finger. We're number one!",
+          "name": "Roses in Vase",
+          "caption": "A cheerful bouquet of red roses ready to brighten your day.",
           "art": [
-            "......ff.......",
-            ".....fAAf......",
-            ".....fAAf......",
-            ".....fAAf......",
-            ".....fAff......",
-            ".....fAAAff....",
-            ".ff..fAAAfff...",
-            ".fAA.fffAAfAA..",
-            "..fffffAffAfff.",
-            "...fAAAAAAAAA..",
-            "...AfAAAAAAA...",
-            "....fAAAAff....",
-            "....fffffff....",
-            "....yyyyByy....",
-            "....yyyyyyy...."
+            "...............",
+            "....rR...RR....",
+            "...rrrr.RRRR...",
+            "...rrrr.RRRR...",
+            "....rr.RRR.RR..",
+            "....g.RRRRR.g..",
+            "...Gg..RRR.gg..",
+            "....ggggggggg..",
+            ".....g.gg.g....",
+            "......gggg.....",
+            ".....bbbbbb....",
+            "....bbbbbbbb...",
+            "....bbbbbbbb...",
+            ".....bbbBbb....",
+            "....BbbBbbbb..."
           ],
           "ink": {
-            "f": "1C7ED6",
-            "y": "FAB005"
+            "r": "D62828",
+            "g": "2B8A3E",
+            "b": "1C7ED6"
           },
           "backdrop": {
-            "A": "1C7ED6",
-            "B": "FAB005"
+            "R": "D62828",
+            "G": "2B8A3E",
+            "B": "1C7ED6"
           }
         }
       }
